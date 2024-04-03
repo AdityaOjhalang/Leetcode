@@ -21,7 +21,7 @@ public:
                 total += diff[i];
                 if (total < 0) {
                     total = 0;
-                    start=i+1;
+                    start = i + 1;
                 }
             }
         }
