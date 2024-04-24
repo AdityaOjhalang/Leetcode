@@ -5,7 +5,7 @@ public:
 
         // If find returns std::string::npos, it means the substring was not
         // found.
-        if (pos == std::string::npos) {
+        if (pos == string::npos) {
             return -1; // Return -1 if the substring is not found
         } else {
             return static_cast<int>(
