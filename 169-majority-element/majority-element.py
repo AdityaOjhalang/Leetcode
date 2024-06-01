@@ -1,16 +1,12 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        res = 0
-        count = 1
+        count = {}
+        res, maxcount = 0, 0
 
-        for i in range(1,len(nums)):
-            if(nums[i] == nums[res]):
-                count+=1
-            else:
-                count -= 1
-            
-            if(count==0):
-                res=i
-                count=1
-        
-        return nums[res]
+        for n in nums:
+            count[n] = 1 + count.get(n, 0)
+            if count[n] > maxcount:
+                res = n
+            maxcount = max(maxcount, count[n])
+
+        return res
