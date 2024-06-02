@@ -20,7 +20,7 @@ class Solution:
             if i == 0:
                 result[i] = suffix[i + 1]
             elif i == n - 1:
-                result[i] = prefix[n - 2]
+                result[i] = prefix[i - 1]
             else:
                 result[i] = prefix[i - 1] * suffix[i + 1]
 
