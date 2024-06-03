@@ -11,9 +11,11 @@ class Solution:
         }
         
         num = 0
-        for i in range(len(s)):
-            num += roman_to_int[s[i]]
-            if i < len(s) - 1 and roman_to_int[s[i]] < roman_to_int[s[i + 1]]:
-                num -= 2 * roman_to_int[s[i]]
+        n = len(s)
+        for i in range(n):
+            if i + 1 < n and roman_to_int[s[i]] < roman_to_int[s[i + 1]]:
+                num -= roman_to_int[s[i]]
+            else:
+                num += roman_to_int[s[i]]
                 
         return num
