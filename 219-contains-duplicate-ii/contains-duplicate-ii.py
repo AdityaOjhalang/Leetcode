@@ -6,12 +6,8 @@ class Solution:
         for i in range(n):
             curr = nums[i]
             if curr in dupes:
-                sec = dupes[curr]
-                if( abs(i - sec) <= k):
+                prev = dupes[curr]
+                if( abs(i - prev) <= k):
                     return True
-                else:
-                    dupes[curr] = i
-            else:
-                dupes[curr] = i
-
+            dupes[curr] = i
         return False
