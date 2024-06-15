@@ -9,5 +9,9 @@ class Solution:
                 prev = dupes[curr]
                 if( abs(i - prev) <= k):
                     return True
-            dupes[curr] = i
+                else:
+                    dupes[curr] = i
+            else:
+                dupes[curr] = i
+
         return False
