@@ -7,5 +7,4 @@ class Solution:
         for w in words:
             if(words[w] != tocheck):
                 return False
-                break
         return True
