@@ -5,12 +5,12 @@ class Solution:
         maxsize = 0
 
         for end in range(len(s)):
-            current = s[end]
+            curr = s[end]
 
-            if current in charindx and charindx[current] >= start:
-                start = charindx[current]+1
+            if curr in charindx and charindx[curr] >= start:
+                start = charindx[curr]+1
             
-            charindx[current] = end 
+            charindx[curr] = end 
             maxsize = max(maxsize , end-start+1)
         
         return maxsize
