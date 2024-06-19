@@ -4,6 +4,8 @@ class Solution:
         lar = -1
         for num in hmap:
             curr = hmap[num] 
-            if curr == 1:
+            if curr < 2:
                 lar = max(lar , num)
+            else:
+                continue
         return lar
