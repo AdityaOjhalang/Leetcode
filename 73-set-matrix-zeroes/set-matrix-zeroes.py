@@ -9,24 +9,24 @@ class Solution:
         is_col = False
 
         for i in range(ROWS):
+
             if matrix[i][0] == 0:
-                is_col=True
-            
+                is_col = True
+
             for j in range(1,COLS):
                 if matrix[i][j] == 0:
                     matrix[i][0] = 0
                     matrix[0][j] = 0
-
-        for i in range(1,ROWS):
+        
+        for i in range (1, ROWS):
             for j in range(1,COLS):
                 if not matrix[i][0] or not matrix[0][j]:
-                    matrix[i][j]=0
-        
+                    matrix[i][j] = 0
+
         if matrix[0][0] == 0:
             for j in range(COLS):
-                matrix[0][j]=0
+                matrix[0][j] = 0
         
-        if is_col:
+        if is_col :
             for i in range(ROWS):
-                matrix[i][0] = 0 
-
+                matrix[i][0] = 0
