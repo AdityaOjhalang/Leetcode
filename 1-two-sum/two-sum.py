@@ -5,8 +5,11 @@ class Solution:
         vals = {}
         res = []
         for i , n in enumerate(nums):
-            complement = target - n
-            if complement in vals:
-                return [vals[complement],i]
-            vals[n] = i
+            
+            if (target - n) not in vals:
+                vals[n] = i
+            
+            else :
+                return [vals[target-n] , i]
+
         return []
