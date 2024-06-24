@@ -3,11 +3,10 @@ class Solution:
 
         #vals = {value: index for index, value in enumerate(nums)}
         vals = {}
-        for i in range(len(nums)):
-            vals[nums[i]] = i
-        n = len(nums)
-        for i in range(n):
-            v = target - nums[i]
-            if( v in vals and vals[v] > i):
-                return [i,vals[v]]               
-            
+        res = []
+        for i , n in enumerate(nums):
+            complement = target - n
+            if complement in vals:
+                return [vals[complement],i]
+            vals[n] = i
+        return []
