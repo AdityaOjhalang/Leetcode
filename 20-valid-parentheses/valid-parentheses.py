@@ -12,4 +12,6 @@ class Solution:
                 last_bracket = stack.pop()
                 if brackets[last_bracket] != char:
                     return False
+
         return not stack
+
