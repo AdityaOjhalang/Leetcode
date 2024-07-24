@@ -9,7 +9,7 @@ class Solution:
         if not root:
             return 0
         stack = [[root,1]]
-        res = 0
+        res = 1
         while stack:
             node,depth = stack.pop()
             res = max(res,depth)
