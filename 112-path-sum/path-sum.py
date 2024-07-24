@@ -7,20 +7,22 @@
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
 
-        def dfs(node, curr):
-            if not node:
-                return False
+        if not root:
+            return False
+        
+        stack = [[root,0]]
 
-            # check if leaf node
+        while stack:
+            node,curr = stack.pop()
+            
             if node.left == None and node.right == None:
-                return curr + node.val == targetSum
-
-            # curr at that is shared not a common curr
+                if (curr + node.val == targetSum):
+                    return True
+            
             curr += node.val
-            left = dfs(node.left, curr)
-            right = dfs(node.right, curr)
+            if node.left:
+                stack.append([node.left,curr])
+            if node.right:
+                stack.append([node.right,curr])
 
-            # if not leaf get true from either left or right if it exists
-            return left or right
-
-        return dfs(root, 0)
+        return False
