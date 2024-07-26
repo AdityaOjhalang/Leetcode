@@ -13,7 +13,7 @@ class Solution:
 
         def dfs(node,currmax,currmin):
             if not node :
-                return
+                return 0
             self.result = max(abs(node.val-currmax),abs(node.val-currmin) , self.result)
             currmax = max(node.val,currmax)
             currmin = min(node.val,currmin)
