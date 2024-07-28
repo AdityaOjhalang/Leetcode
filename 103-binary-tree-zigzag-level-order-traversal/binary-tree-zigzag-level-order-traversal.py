@@ -22,7 +22,7 @@ class Solution:
                 if node.right:
                     queue.append(node.right)
             if from_right:
-                    res.append(reversed(curr))
+                    res.append(curr[::-1])
             else:
                     res.append(curr
                     )
