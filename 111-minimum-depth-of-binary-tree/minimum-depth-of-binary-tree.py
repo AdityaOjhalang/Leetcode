@@ -7,7 +7,5 @@ class Solution:
                 return 1 + dfs(node.right)
             elif node.right is None:
                 return 1 + dfs(node.left)
-            
             return 1 + min(dfs(node.left),dfs(node.right))
-        
         return dfs(root)
