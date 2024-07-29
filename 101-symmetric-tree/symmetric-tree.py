@@ -15,11 +15,10 @@ class Solution:
                 return True
             if t1 is None or t2 is None:
                 return False
-            
-            return (
-                t1.val == t2.val 
-                and check(t1.left,t2.right)
-                and check(t1.right,t2.left))
+            if t1.val != t2.val:
+                return False
+            return (check(t1.left,t2.right) and check(t1.right,t2.left))
+                
 
         return check(root.left,root.right)
 
