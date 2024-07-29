@@ -13,7 +13,7 @@ class Solution:
             dfs(node.left)
             self.sortednodes.append(node.val)
             dfs(node.right)
-        
+            
         dfs(root)
         res = float('inf')
         for i in range(1,len(self.sortednodes)):
