@@ -1,11 +1,22 @@
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
-        def dfs(node):
-            if not node:
-                return 0
-            if node.left is None:
-                return 1 + dfs(node.right)
-            elif node.right is None:
-                return 1 + dfs(node.left)
-            return 1 + min(dfs(node.left),dfs(node.right))
-        return dfs(root)
+        queue = deque([root])
+        depth = 1
+        if not root:
+            return 0
+        while queue:
+            num_nodes = len(queue)
+
+            for _ in range(num_nodes):
+                node = queue.popleft()
+
+                if node.left == None and node.right == None:
+                    return depth
+                
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+
+            depth += 1
+        return -1
