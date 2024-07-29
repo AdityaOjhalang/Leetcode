@@ -9,8 +9,10 @@ class Solution:
         if not root:
             return True
         def dfs(node,lower=float('-inf'),upper=float('inf')):
+
             if not node:
                 return True
+                
             val = node.val
             if val <= lower or val >= upper:
                 return False
@@ -20,5 +22,4 @@ class Solution:
 
             return left and right
 
-        
         return dfs(root)
