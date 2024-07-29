@@ -1,9 +1,11 @@
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
-        queue = deque([root])
-        depth = 1
         if not root:
             return 0
+
+        queue = deque([root])
+        depth = 1
+        
         while queue:
             num_nodes = len(queue)
 
