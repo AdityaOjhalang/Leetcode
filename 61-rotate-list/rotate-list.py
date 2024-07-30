@@ -10,7 +10,7 @@ class Solution:
         curr = head
         n = 1
         #n
-        while curr.next:
+        while curr and curr.next:
             n += 1
             curr = curr.next
         #form a ring
