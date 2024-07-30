@@ -8,7 +8,6 @@ class Solution:
     def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
         if not root:
             return
-        
 
         queue = deque([root])
         res = []
@@ -23,6 +22,6 @@ class Solution:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            avg = float(currsum/total_nodes)
+            avg = currsum / total_nodes
             res.append(avg)
         return res
