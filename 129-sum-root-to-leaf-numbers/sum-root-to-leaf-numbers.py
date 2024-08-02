@@ -10,15 +10,16 @@ class Solution:
             return 0
 
         self.res = 0
-        def dfs(node , currnum):
+
+        def dfs(node, currnum):
             if not node:
-                return 
-            if not node.left and not node.right:
-                self.res += currnum*10 + node.val
                 return
-            currnum = currnum*10 + node.val
-            dfs(node.left,currnum)
-            dfs(node.right,currnum)
-        
-        dfs(root,0)
+            if not node.left and not node.right:
+                self.res += currnum * 10 + node.val
+                return
+            currnum = currnum * 10 + node.val
+            dfs(node.left, currnum)
+            dfs(node.right, currnum)
+
+        dfs(root, 0)
         return self.res
