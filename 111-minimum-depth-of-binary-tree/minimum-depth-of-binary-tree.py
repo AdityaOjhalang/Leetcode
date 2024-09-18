@@ -5,10 +5,9 @@ class Solution:
 
         queue = deque([root])
         depth = 1
-        
+
         while queue:
             num_nodes = len(queue)
-
             for _ in range(num_nodes):
                 node = queue.popleft()
 
@@ -19,6 +18,5 @@ class Solution:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-
             depth += 1
         return -1
