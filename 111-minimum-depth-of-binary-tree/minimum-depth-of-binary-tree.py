@@ -19,4 +19,4 @@ class Solution:
                 if node.right:
                     queue.append(node.right)
             depth += 1
-        return 0
+        return 
