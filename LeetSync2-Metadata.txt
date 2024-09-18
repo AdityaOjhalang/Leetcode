@@ -1,1 +1,2 @@
 111-minimum-depth-of-binary-tree|Easy|1726632000000
+1448-count-good-nodes-in-binary-tree|Medium|1726632000000
