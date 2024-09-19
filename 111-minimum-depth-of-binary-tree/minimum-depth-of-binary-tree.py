@@ -10,13 +10,11 @@ class Solution:
             num_nodes = len(queue)
             for _ in range(num_nodes):
                 node = queue.popleft()
-
-                if node.left == None and node.right == None:
+                if node.left == None and  node.right == None:
                     return depth
-                
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-            depth += 1
-        return 
+            depth+=1
+        return -1 
