@@ -19,10 +19,10 @@ class Solution:
             if t1.val != t2.val:
                 return False
 
-            left = check(t1.left,t2.right)
-            right = check(t1.right,t2.left)
+            leftsubtree = check(t1.left,t2.right)
+            rightsubtree = check(t1.right,t2.left)
 
-            return (left and right)
+            return (leftsubtree and rightsubtree)
             
         return check(root.left,root.right)
 
