@@ -43,6 +43,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0637-average-of-levels-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaOjhalang/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaOjhalang/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -131,4 +133,8 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AdityaOjhalang/Leetcode/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaOjhalang/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 <!---LeetCode Topics End-->
