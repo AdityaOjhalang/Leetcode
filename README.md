@@ -140,4 +140,5 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0871-keys-and-rooms](https://github.com/AdityaOjhalang/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaOjhalang/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
