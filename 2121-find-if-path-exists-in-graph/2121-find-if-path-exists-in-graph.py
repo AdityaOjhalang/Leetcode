@@ -5,11 +5,10 @@ class Solution:
             return True
 
         def dfs(node):
+            seen.add(node)
+            if node == destination:
+                return
             for neigh in graph[node]:
-                seen.add(node)
-                if node == destination:
-                    seen.add(node)
-                    return
                 if neigh not in seen:
                     seen.add(neigh)
                     dfs(neigh)
