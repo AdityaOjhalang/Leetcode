@@ -67,6 +67,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0637-average-of-levels-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/AdityaOjhalang/Leetcode/tree/master/0871-keys-and-rooms) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaOjhalang/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -109,6 +110,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/AdityaOjhalang/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Hash Table
 |  |
@@ -152,6 +154,7 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0200-number-of-islands](https://github.com/AdityaOjhalang/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Graph
 |  |
 | ------- |
