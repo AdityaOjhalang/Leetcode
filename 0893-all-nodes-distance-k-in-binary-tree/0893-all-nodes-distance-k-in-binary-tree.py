@@ -12,8 +12,11 @@ class Solution:
             if not node:
                 return
             node.parent = parent
-            dfs(node.left,node)
-            dfs(node.right,node)
+            if node.left:
+                dfs(node.left,node)
+            if node.right:
+                dfs(node.right,node)
+                
         dfs(root,None)
         seen = {target}
         queue = deque([target])
