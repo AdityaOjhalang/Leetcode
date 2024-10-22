@@ -72,6 +72,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0871-keys-and-rooms](https://github.com/AdityaOjhalang/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/AdityaOjhalang/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AdityaOjhalang/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaOjhalang/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -171,6 +172,7 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0871-keys-and-rooms](https://github.com/AdityaOjhalang/Leetcode/tree/master/0871-keys-and-rooms) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/AdityaOjhalang/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaOjhalang/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
