@@ -3,11 +3,10 @@ class Solution:
         
         def neighbors(node):
             res = []
-
             for i in range(4):
                 digit = str((int(node[i]) + 1) % 10)
                 res.append(node[:i]+digit+node[i+1:])
-                digit = str((int(node[i]) - 1 + 10 ) % 10)
+                digit = str((int(node[i]) - 1) % 10)
                 res.append(node[:i]+digit+node[i+1:])
             return res
         
