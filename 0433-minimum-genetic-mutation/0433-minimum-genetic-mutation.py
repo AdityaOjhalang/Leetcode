@@ -5,23 +5,9 @@ class Solution:
             arr = []
 
             for i in range(len(node)):
-                if node[i] == "A":
-                    arr.append(node[:i] + "C" + node[i+1:])
-                    arr.append(node[:i] + "G" + node[i+1:])
-                    arr.append(node[:i] + "T" + node[i+1:])
-                if node[i] == "C":
-                    arr.append(node[:i] + "A" + node[i+1:])
-                    arr.append(node[:i] + "G" + node[i+1:])
-                    arr.append(node[:i] + "T" + node[i+1:])
-                if node[i] == "G":
-                    arr.append(node[:i] + "A" + node[i+1:])
-                    arr.append(node[:i] + "C" + node[i+1:])
-                    arr.append(node[:i] + "T" + node[i+1:])
-                if node[i] == "T":
-                    arr.append(node[:i] + "A" + node[i+1:])
-                    arr.append(node[:i] + "C" + node[i+1:])
-                    arr.append(node[:i] + "G" + node[i+1:])
-                    
+                for char in "ACGT":
+                    if char != node[i]:
+                        arr.append(node[:i] + char + node[i+1:])    
             return arr
         
         queue = deque([(startGene,0)])
