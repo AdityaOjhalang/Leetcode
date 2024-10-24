@@ -66,6 +66,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0226-invert-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AdityaOjhalang/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0542-01-matrix) |
@@ -134,6 +135,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -142,6 +144,7 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
 ## Sorting
 |  |
