@@ -1,14 +1,14 @@
 class Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
-        length = len(board)
-        board.reverse()
-        def pos(square):
-            row = (square - 1) // length
-            col = (square - 1) % length
-
-            if row%2:
-                col = length - 1 - col
-            return [row, col]
+        n = len(board)
+        cells = [None]* (n**2 +1)
+        columns = list(range(n))
+        label = 1
+        for row in range(n-1,-1,-1):
+            for col in columns:
+                cells[label] = (row,col)
+                label += 1
+            columns.reverse()
 
         queue = deque([(1, 0)])
         seen = set()
@@ -19,10 +19,10 @@ class Solution:
 
             for i in range(1, 7):
                 nextsq = sqr + i
-                r, c = pos(nextsq)
+                r, c = cells[nextsq]
                 if board[r][c] != -1:
                     nextsq = board[r][c]
-                if nextsq == length * length:
+                if nextsq == n * n:
                     return moves + 1
                 if nextsq not in seen:
                     seen.add(nextsq)
