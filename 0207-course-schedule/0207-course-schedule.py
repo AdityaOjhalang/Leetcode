@@ -1,30 +1,27 @@
 class Solution:
     def canFinish(self, n: int, prerequisites: List[List[int]]) -> bool:
-        premap = {i:[] for i in range(n)}
-
-        for crs,pre in prerequisites:
-            premap[crs].append(pre)
         
-        seen = set()
+        graph = defaultdict(list)
+        for crs, preq in prerequisites:
+            graph[crs].append(preq)
+
+        UNVISITED, VISITED, VISITING = 0, 2, 1
+        state = [UNVISITED]*n
 
         def dfs(crs):
-
-            if premap[crs] == []:
+            if state[crs] == VISITING:
+                return False
+            if state[crs] == VISITED:
                 return True
             
-            if crs in seen and premap[crs] != []:
-                return False
-            
-            seen.add(crs)
-            for pre in premap[crs]:
-                if not dfs(pre):
+            state[crs] = VISITING
+            for preq in graph[crs]:
+                if not dfs(preq):
                     return False
-            
-            premap[crs] = []
+            state[crs] = VISITED
             return True
-        
-        for crs in range(n):
-            if not dfs(crs):
+
+        for i in range(n):
+            if not dfs(i):
                 return False
         return True
-            
