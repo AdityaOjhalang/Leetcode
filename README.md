@@ -141,6 +141,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
 | [0945-snakes-and-ladders](https://github.com/AdityaOjhalang/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1126-minimum-cost-to-connect-sticks](https://github.com/AdityaOjhalang/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/AdityaOjhalang/Leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AdityaOjhalang/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -250,12 +251,14 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [1126-minimum-cost-to-connect-sticks](https://github.com/AdityaOjhalang/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/AdityaOjhalang/Leetcode/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdityaOjhalang/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Greedy
 |  |
 | ------- |
+| [1126-minimum-cost-to-connect-sticks](https://github.com/AdityaOjhalang/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdityaOjhalang/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Two Pointers
