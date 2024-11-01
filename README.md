@@ -173,6 +173,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
+| [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -247,10 +248,23 @@ This is a collection of all the problems I have solved on Leetcode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1127-last-stone-weight](https://github.com/AdityaOjhalang/Leetcode/tree/master/1127-last-stone-weight) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Greedy
 |  |
 | ------- |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
