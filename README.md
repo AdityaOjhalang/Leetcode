@@ -126,6 +126,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0098-validate-binary-search-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Array
@@ -139,6 +140,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0542-01-matrix) |
+| [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
 | [0945-snakes-and-ladders](https://github.com/AdityaOjhalang/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -179,6 +181,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -256,6 +259,7 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/AdityaOjhalang/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/AdityaOjhalang/Leetcode/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdityaOjhalang/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -270,6 +274,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Design
 |  |
 | ------- |
@@ -290,4 +295,8 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
