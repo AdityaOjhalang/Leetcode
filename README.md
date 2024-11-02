@@ -136,6 +136,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/AdityaOjhalang/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityaOjhalang/Leetcode/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
@@ -159,6 +160,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AdityaOjhalang/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/0133-clone-graph) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -176,11 +178,13 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -251,6 +255,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/AdityaOjhalang/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/AdityaOjhalang/Leetcode/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdityaOjhalang/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -273,4 +278,16 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
