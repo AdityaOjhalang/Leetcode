@@ -3,10 +3,8 @@ import heapq
 class MedianFinder:
 
     def __init__(self):
-        self.small, self.large = [], []  # small is a max heap (simulated with negatives), large is a min heap
-
+        self.small, self.large = [], []  
     def addNum(self, num: int) -> None:
-        # Add to max heap (small) as a negative value to simulate a max heap
         heapq.heappush(self.small, -1 * num)
 
         # Ensure the max element of small is not greater than the min element of large
