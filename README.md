@@ -143,6 +143,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
+| [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
@@ -189,6 +190,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2245-destroying-asteroids](https://github.com/AdityaOjhalang/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -275,6 +277,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -285,6 +288,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/AdityaOjhalang/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdityaOjhalang/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2245-destroying-asteroids](https://github.com/AdityaOjhalang/Leetcode/tree/master/2245-destroying-asteroids) |
