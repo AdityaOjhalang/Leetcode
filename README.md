@@ -155,6 +155,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AdityaOjhalang/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1428-jump-game-iii) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AdityaOjhalang/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdityaOjhalang/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2206-detonate-the-maximum-bombs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -174,6 +175,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## String
 |  |
@@ -193,6 +195,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2245-destroying-asteroids](https://github.com/AdityaOjhalang/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Divide and Conquer
@@ -290,6 +293,7 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/AdityaOjhalang/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdityaOjhalang/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2245-destroying-asteroids](https://github.com/AdityaOjhalang/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -317,6 +321,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 ## Quickselect
 |  |
 | ------- |
