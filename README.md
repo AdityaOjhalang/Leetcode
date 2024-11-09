@@ -134,6 +134,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/AdityaOjhalang/Leetcode/tree/master/0792-binary-search) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Array
 |  |
 | ------- |
@@ -170,6 +171,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2245-destroying-asteroids](https://github.com/AdityaOjhalang/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Hash Table
 |  |
@@ -211,6 +213,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1829-maximum-units-on-a-truck](https://github.com/AdityaOjhalang/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2245-destroying-asteroids](https://github.com/AdityaOjhalang/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -325,6 +328,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/AdityaOjhalang/Leetcode/tree/master/0917-boats-to-save-people) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Design
 |  |
 | ------- |
