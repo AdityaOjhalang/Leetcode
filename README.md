@@ -128,6 +128,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0035-search-insert-position](https://github.com/AdityaOjhalang/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0162-find-peak-element) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -146,6 +147,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/AdityaOjhalang/Leetcode/tree/master/0130-surrounded-regions) |
+| [0162-find-peak-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/AdityaOjhalang/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
