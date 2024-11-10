@@ -8,7 +8,7 @@ class Solution:
                     right = mid - 1
                 else:
                     left = mid + 1
-            return left  # Left is the insertion point for tar
+            return left
         nums.sort()
         for i in range(1,len(nums)):
             nums[i] += nums[i-1]
