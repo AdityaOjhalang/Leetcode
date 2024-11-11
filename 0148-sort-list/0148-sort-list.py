@@ -35,12 +35,10 @@ class Solution:
                 tail.next = right
                 right = right.next
             tail = tail.next
-        while left:
+        if left:
             tail.next = left
-            left = left.next
-            tail = tail.next
-        while right:
+
+        if right:
             tail.next = right
-            right = right.next
-            tail = tail.next
+
         return dummy.next
