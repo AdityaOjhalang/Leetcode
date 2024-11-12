@@ -45,6 +45,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0200-number-of-islands](https://github.com/AdityaOjhalang/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AdityaOjhalang/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AdityaOjhalang/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -215,6 +216,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/AdityaOjhalang/Leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AdityaOjhalang/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
@@ -367,6 +369,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AdityaOjhalang/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -405,5 +408,6 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AdityaOjhalang/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
