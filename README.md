@@ -201,6 +201,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AdityaOjhalang/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/0133-clone-graph) |
+| [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
@@ -213,6 +214,7 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/AdityaOjhalang/Leetcode/tree/master/0127-word-ladder) |
+| [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
@@ -364,6 +366,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -401,5 +404,6 @@ This is a collection of all the problems I have solved on Leetcode
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
