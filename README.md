@@ -143,6 +143,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/AdityaOjhalang/Leetcode/tree/master/0792-binary-search) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Array
@@ -177,6 +178,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1127-last-stone-weight](https://github.com/AdityaOjhalang/Leetcode/tree/master/1127-last-stone-weight) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/AdityaOjhalang/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AdityaOjhalang/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1428-jump-game-iii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AdityaOjhalang/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -214,6 +216,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
+| [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 ## Sorting
 |  |
 | ------- |
@@ -227,6 +230,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0917-boats-to-save-people](https://github.com/AdityaOjhalang/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/AdityaOjhalang/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
+| [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AdityaOjhalang/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1829-maximum-units-on-a-truck](https://github.com/AdityaOjhalang/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -329,6 +333,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/AdityaOjhalang/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/AdityaOjhalang/Leetcode/tree/master/1127-last-stone-weight) |
+| [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AdityaOjhalang/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdityaOjhalang/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -393,4 +398,8 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0148-sort-list) |
+## Trie
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
