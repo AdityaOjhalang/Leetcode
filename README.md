@@ -316,6 +316,7 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0066-plus-one](https://github.com/AdityaOjhalang/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1448-maximum-69-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
