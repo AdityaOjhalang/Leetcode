@@ -3,8 +3,7 @@ class Solution:
         citations.sort(reverse=True)
         res = 0
         for i in range(len(citations)):
-            if citations[i] >= i+1:
-                res = i+1
-            else:
-                break
-        return res
+            if citations[i] < i+1:
+                return i
+
+        return len(citations)
