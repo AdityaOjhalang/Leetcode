@@ -175,6 +175,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0200-number-of-islands](https://github.com/AdityaOjhalang/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AdityaOjhalang/Leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/AdityaOjhalang/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
 | [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
@@ -245,6 +246,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0169-majority-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AdityaOjhalang/Leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/AdityaOjhalang/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
@@ -454,4 +456,8 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/AdityaOjhalang/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
