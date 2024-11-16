@@ -232,6 +232,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AdityaOjhalang/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
@@ -455,6 +456,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AdityaOjhalang/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
