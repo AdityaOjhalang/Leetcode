@@ -212,6 +212,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AdityaOjhalang/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -231,6 +232,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AdityaOjhalang/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -346,6 +348,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AdityaOjhalang/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AdityaOjhalang/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
