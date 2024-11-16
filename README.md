@@ -212,6 +212,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -230,6 +231,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/AdityaOjhalang/Leetcode/tree/master/0127-word-ladder) |
@@ -341,6 +343,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AdityaOjhalang/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
