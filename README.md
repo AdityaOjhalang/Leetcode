@@ -138,6 +138,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaOjhalang/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -178,6 +179,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0169-majority-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/AdityaOjhalang/Leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AdityaOjhalang/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AdityaOjhalang/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -464,10 +466,12 @@ This is a collection of all the problems I have solved on Leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AdityaOjhalang/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Merge Sort
