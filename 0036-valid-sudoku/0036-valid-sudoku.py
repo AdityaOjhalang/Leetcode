@@ -9,10 +9,10 @@ class Solution:
                 val = board[row][col]
                 if val == ".":
                     continue
-                if val in rows[row] or val in cols[col] or val in boxes[row//3,col//3]:
+                elif val in rows[row] or val in cols[col] or val in boxes[row//3,col//3]:
                     return False
                 
                 rows[row].add(val)
-                cols[col].add(col)
+                cols[col].add(val)
                 boxes[row//3,col//3].add(val)
         return True
