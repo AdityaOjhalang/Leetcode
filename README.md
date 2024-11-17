@@ -166,6 +166,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0054-spiral-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AdityaOjhalang/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AdityaOjhalang/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -225,6 +226,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0013-roman-to-integer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/AdityaOjhalang/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AdityaOjhalang/Leetcode/tree/master/0127-word-ladder) |
@@ -324,6 +326,7 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0036-valid-sudoku](https://github.com/AdityaOjhalang/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/AdityaOjhalang/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityaOjhalang/Leetcode/tree/master/0200-number-of-islands) |
