@@ -152,6 +152,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaOjhalang/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -255,6 +256,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0148-sort-list) |
@@ -414,6 +416,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaOjhalang/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
