@@ -5,12 +5,10 @@ class Solution:
         res = 0
         hset = set(nums)
         for ind,val in enumerate(nums):
-            length = 1
-            if val-1 in hset:
-                continue
-            else:
+            if val-1 not in hset:
+                length = 1
                 while val + 1 in hset:
                     val += 1
                     length +=1
-            res = max(res,length)
+                res = max(res,length)
         return res
