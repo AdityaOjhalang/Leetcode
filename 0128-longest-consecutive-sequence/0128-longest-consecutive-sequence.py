@@ -4,7 +4,7 @@ class Solution:
             return 0
         res = 0
         hset = set(nums)
-        for ind,val in enumerate(nums):
+        for val in (nums):
             if val-1 not in hset:
                 length = 1
                 while val + 1 in hset:
