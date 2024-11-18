@@ -20,6 +20,6 @@ class Solution:
                 val = calculate(a,b,t)
                 stack.append(val)
             else:
-                stack.append(t)
+                stack.append(int(t))
 
         return int(stack.pop())
