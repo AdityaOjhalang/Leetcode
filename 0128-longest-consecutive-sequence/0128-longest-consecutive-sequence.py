@@ -2,7 +2,7 @@ class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         if not nums:
             return 0
-        res = 1
+        res = 0
         hset = set(nums)
         for ind,val in enumerate(nums):
             length = 1
