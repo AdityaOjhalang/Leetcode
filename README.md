@@ -335,6 +335,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0042-trapping-rain-water](https://github.com/AdityaOjhalang/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/AdityaOjhalang/Leetcode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0155-min-stack) |
 ## Union Find
 |  |
 | ------- |
@@ -474,6 +475,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AdityaOjhalang/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
