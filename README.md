@@ -408,6 +408,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1448-maximum-69-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2383-add-two-integers](https://github.com/AdityaOjhalang/Leetcode/tree/master/2383-add-two-integers) |
 ## Geometry
 |  |
 | ------- |
