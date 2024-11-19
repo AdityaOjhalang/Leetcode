@@ -7,13 +7,12 @@ class Solution:
             "L" : 50,
             "C" : 100,
             "D" : 500,
-            "M" : 1000,
+            "M" : 1000
         }
 
         res = 0
-        n = len(s)
-        for i in range(n):
-            if i + 1 < n and hmap[s[i]] < hmap[s[i+1]]:
+        for i in range(len(s)):
+            if i < len(s)-1 and hmap[s[i]] < hmap[s[i+1]]:
                 res -= hmap[s[i]]
             else:
                 res += hmap[s[i]]
