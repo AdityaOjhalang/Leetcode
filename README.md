@@ -20,6 +20,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityaOjhalang/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
@@ -126,6 +127,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityaOjhalang/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
@@ -150,6 +152,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0162-find-peak-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaOjhalang/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -547,6 +550,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
 | ------- |
