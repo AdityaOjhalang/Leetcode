@@ -9,12 +9,10 @@ class Solution:
         if not postorder or not inorder:
             return None
         
-        #find the right indexes and create the root and the pivot elemement
         root = TreeNode(postorder[-1])
         mid = inorder.index(postorder[-1])
 
-        #create the left and right subtree 
         root.left = self.buildTree(inorder[0:mid],postorder[0:mid])
         root.right = self.buildTree(inorder[mid+1:],postorder[mid:-1])
-
+        
         return root
