@@ -8,21 +8,21 @@ class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-
+        
         self.res = 0
 
         def dfs(node,currnum):
             if not node:
-                return
+                return 
             
-            # check if we have reached the leaf node:
             if not node.left and not node.right:
-                self.res += currnum*10 + node.val
-                return
+                currnum = currnum*10 + node.val
+                self.res += currnum
             
-            currnum = currnum*10 + node.val
-            dfs(node.left,currnum)
-            dfs(node.right,currnum)
-        
+            currnum = currnum * 10 + node.val
+
+            left = dfs(node.left,currnum)
+            right = dfs(node.right,currnum)
+
         dfs(root,0)
         return self.res
