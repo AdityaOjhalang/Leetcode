@@ -21,6 +21,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0129-sum-root-to-leaf-numbers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityaOjhalang/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AdityaOjhalang/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -51,6 +52,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0210-course-schedule-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AdityaOjhalang/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
@@ -125,6 +127,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0129-sum-root-to-leaf-numbers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityaOjhalang/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AdityaOjhalang/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
