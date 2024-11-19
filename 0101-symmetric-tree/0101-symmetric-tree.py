@@ -9,24 +9,14 @@ class Solution:
         if not root:
             return True
         
-        def check(t1,t2):
+        def checksub(t1,t2):
             if not t1 and not t2:
                 return True
-            
-            if not t1 or not t2:
+            if not t1 or not t2 :
                 return False
-            
             if t1.val != t2.val:
                 return False
-
-            leftsubtree = check(t1.left,t2.right)
-            rightsubtree = check(t1.right,t2.left)
-
-            return (leftsubtree and rightsubtree)
-            
-        return check(root.left,root.right)
-
-
-
-            
-        
+            left = checksub(t1.left,t2.right)
+            right = checksub(t1.right,t2.left)
+            return left and right
+        return checksub(root.left,root.right)
