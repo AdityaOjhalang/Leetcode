@@ -21,4 +21,5 @@ class Solution:
         
         #for root node
         lca = left or right
+        
         return lca
