@@ -7,14 +7,12 @@ class Solution:
             return
 
         ROWS, COLS = len(board), len(board[0])
-        vistied = set()
         directions = [(0, 1), (1, 0), (-1, 0), (0, -1)]
 
         def mark(r, c):
             if (r < 0 or r >= ROWS or c < 0 or c >= COLS) or board[r][c] != "O":
                 return
             board[r][c] = "E"
-            vistied.add((r,c))
             for x, y in directions:
                 nr, nc = x + r, y + c
                 mark(nr,nc)
