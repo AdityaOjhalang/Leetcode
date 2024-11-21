@@ -1,12 +1,14 @@
 class Solution:
     def canFinish(self, n: int, prerequisites: List[List[int]]) -> bool:
-        
-        graph = defaultdict(list)
-        for crs, preq in prerequisites:
-            graph[crs].append(preq)
 
-        UNVISITED, VISITED, VISITING = 0, 2, 1
-        state = [UNVISITED]*n
+        graph = defaultdict(list)
+        
+        for crs,preq in prerequisites:
+            graph[crs].append(preq)
+        
+        VISITING , VISITED , UNVISITED  = 1 , 2 ,0
+
+        state = [UNVISITED] * n
 
         def dfs(crs):
             if state[crs] == VISITING:
@@ -18,9 +20,10 @@ class Solution:
             for preq in graph[crs]:
                 if not dfs(preq):
                     return False
+
             state[crs] = VISITED
             return True
-
+        
         for i in range(n):
             if not dfs(i):
                 return False
