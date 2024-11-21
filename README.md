@@ -72,6 +72,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaOjhalang/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
@@ -113,6 +114,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AdityaOjhalang/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
@@ -370,6 +372,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0547-number-of-provinces](https://github.com/AdityaOjhalang/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Matrix
 |  |
@@ -402,6 +405,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Dynamic Programming
 |  |
