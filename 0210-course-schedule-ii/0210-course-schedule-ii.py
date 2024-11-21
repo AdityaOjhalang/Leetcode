@@ -3,17 +3,17 @@ class Solution:
 
         order = []
         graph = defaultdict(list)
-        for crs, preq in prerequisites:
+        for crs,preq in prerequisites:
             graph[crs].append(preq)
-
-        UNVISITED, VISITED, VISITING = 0, 2, 1
-        state = [UNVISITED]*n
+        
+        VISITED , VISITING , UNVISITED = 2 , 1 , 0
+        state = [UNVISITED] * n
 
         def dfs(crs):
-            if state[crs] == VISITING:
-                return False
             if state[crs] == VISITED:
                 return True
+            if state[crs] == VISITING:
+                return False
             
             state[crs] = VISITING
             for preq in graph[crs]:
@@ -27,8 +27,6 @@ class Solution:
         for i in range(n):
             if not dfs(i):
                 return []
-
+        
         return order
-
-
 
