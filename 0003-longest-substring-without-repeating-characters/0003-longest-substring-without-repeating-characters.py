@@ -1,17 +1,17 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        charindx = {}
+        charind = {}
         start = 0
-        maxsize = 0
-        n = len(s)
-
-        for end in range(n):
+        res = 0
+        for end in range(len(s)):
             curr = s[end]
-
-            if curr in charindx and charindx[curr] >= start:
-                start = charindx[curr] + 1
+            while curr in charind and charind[curr] >= start:
+                start += 1
             
-            charindx[curr] = end
-            maxsize = max(maxsize , end - start + 1)
+            charind[curr] = end
+            res = max(res,end-start+1)
+        print(charind)
+        return res
 
-        return maxsize
+            
+
