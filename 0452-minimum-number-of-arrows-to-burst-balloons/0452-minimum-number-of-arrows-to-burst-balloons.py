@@ -8,7 +8,5 @@ class Solution:
             if x_start > lastend:
                 arr += 1
                 lastend = x_end
-            
-            
             lastend = min(x_end,lastend)
         return arr
