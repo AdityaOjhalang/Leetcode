@@ -7,9 +7,11 @@ class Solution:
             if char in hmap:
                 stack.append(char)
             else:
-                if not stack:
-                    return False
-                last_open = stack.pop()
-                if hmap[last_open] != char:
-                    return False
-        return not stack
+                if stack:
+                    lastopen = stack.pop()
+                    if char != hmap[lastopen]:
+                        return False
+                else:
+                    return False 
+
+        return True if len(stack) == 0 else False
