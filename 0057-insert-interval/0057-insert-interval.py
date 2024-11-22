@@ -1,18 +1,23 @@
 class Solution:
-    def insert(
-        self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
+    def insert(self, intervals: List[List[int]], new: List[int]) -> List[List[int]]:
         res = []
-        for i , interval in enumerate(intervals):
-            #new interval is smaller than current 
-            if newInterval[1] < interval[0]:
-                res.append(newInterval)
+        for i , intl in enumerate(intervals):
+            #new interval is smaller
+            if new[1] < intl[0]:
+                res.append(new)
                 return res + intervals[i:]
-            #new Interval is bigger than current then append current interval
-            elif interval[1] < newInterval[0]:
-                res.append(interval)
-            #They are overlapping intervals
+
+            #new interval is bigger
+            elif intl[1] < new[0]:
+                res.append(intl)
+
             else:
-                newInterval[0] = min(newInterval[0],interval[0])
-                newInterval[1] = max(newInterval[1],interval[1])
-        res.append(newInterval)
+            #new interval is merging 
+                new[0] = min(new[0],intl[0])
+                new[1] = max(new[1],intl[1])
+
+        res.append(new)
         return res
+        
+
+
