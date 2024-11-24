@@ -168,6 +168,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0784-insert-into-a-binary-search-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/AdityaOjhalang/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/AdityaOjhalang/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -229,6 +230,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/AdityaOjhalang/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/AdityaOjhalang/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/AdityaOjhalang/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0945-snakes-and-ladders](https://github.com/AdityaOjhalang/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
