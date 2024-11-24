@@ -197,6 +197,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0066-plus-one](https://github.com/AdityaOjhalang/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/AdityaOjhalang/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -573,6 +574,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/AdityaOjhalang/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
@@ -599,4 +601,5 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AdityaOjhalang/Leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/AdityaOjhalang/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
