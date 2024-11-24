@@ -199,6 +199,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0073-set-matrix-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AdityaOjhalang/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AdityaOjhalang/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -302,6 +303,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0058-length-of-last-word](https://github.com/AdityaOjhalang/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/AdityaOjhalang/Leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/AdityaOjhalang/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AdityaOjhalang/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AdityaOjhalang/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -394,6 +396,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0054-spiral-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AdityaOjhalang/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AdityaOjhalang/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AdityaOjhalang/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0542-01-matrix) |
@@ -608,4 +611,5 @@ This is a collection of all the problems I have solved on Leetcode
 | [0046-permutations](https://github.com/AdityaOjhalang/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AdityaOjhalang/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AdityaOjhalang/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AdityaOjhalang/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
