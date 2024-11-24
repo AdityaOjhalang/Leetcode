@@ -188,6 +188,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0036-valid-sudoku](https://github.com/AdityaOjhalang/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/AdityaOjhalang/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/AdityaOjhalang/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AdityaOjhalang/Leetcode/tree/master/0055-jump-game) |
@@ -594,4 +595,8 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/AdityaOjhalang/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AdityaOjhalang/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
