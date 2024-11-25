@@ -163,6 +163,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0222-count-complete-tree-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
+| [0300-longest-increasing-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -224,6 +225,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0228-summary-ranges](https://github.com/AdityaOjhalang/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/AdityaOjhalang/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/AdityaOjhalang/Leetcode/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityaOjhalang/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -436,6 +438,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0055-jump-game](https://github.com/AdityaOjhalang/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
