@@ -298,6 +298,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0014-longest-common-prefix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AdityaOjhalang/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AdityaOjhalang/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AdityaOjhalang/Leetcode/tree/master/0058-length-of-last-word) |
@@ -426,6 +427,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AdityaOjhalang/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AdityaOjhalang/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AdityaOjhalang/Leetcode/tree/master/0055-jump-game) |
@@ -607,6 +609,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AdityaOjhalang/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AdityaOjhalang/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AdityaOjhalang/Leetcode/tree/master/0077-combinations) |
