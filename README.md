@@ -437,6 +437,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0542-01-matrix) |
+| [1013-fibonacci-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1013-fibonacci-number) |
 ## Shortest Path
 |  |
 | ------- |
@@ -451,6 +452,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1448-maximum-69-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -618,4 +620,12 @@ This is a collection of all the problems I have solved on Leetcode
 | [0077-combinations](https://github.com/AdityaOjhalang/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AdityaOjhalang/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AdityaOjhalang/Leetcode/tree/master/0079-word-search) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
