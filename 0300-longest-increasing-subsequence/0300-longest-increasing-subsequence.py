@@ -11,5 +11,3 @@ class Solution:
             return memo[i]
         memo = {}
         return max(dp(i) for i in range(len(nums)))
-
-            
