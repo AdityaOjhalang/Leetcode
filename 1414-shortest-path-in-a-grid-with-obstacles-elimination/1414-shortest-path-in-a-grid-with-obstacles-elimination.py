@@ -1,24 +1,25 @@
 class Solution:
     def shortestPath(self, grid: List[List[int]], k: int) -> int:
-        def valid(r,c):
-            return 0 <= r < ROWS and 0 <= c < COLS #not doing element check cause we can remove obstacles
-        
-        ROWS , COLS = len(grid) , len(grid[0])
-        seen = {(0,0,k)}
+
+        m,n = len(grid) , len(grid[0])
+        directions = [(0,1),(1,0),(0,-1),(-1,0)]
         queue = deque([(0,0,k,0)])
-        directions = [(0,1),(1,0),(-1,0),(0,-1)]
+        seen = {(0,0,k)}
+
+        def valid(r,c):
+            return 0<=r<m and 0<=c<n
 
         while queue:
-            row,col,obs,steps = queue.popleft()
-            if row == ROWS - 1 and col == COLS -1:
+            row,col,rem,steps = queue.popleft()
+            if row == m-1 and col == n-1:
                 return steps
-            for x, y in directions:
-                nr , nc = row + x, col + y
+            for x,y in directions:
+                nr,nc = row+x,col+y
                 if valid(nr,nc):
-                    if (nr,nc,obs) not in seen and grid[nr][nc] == 0:
-                        seen.add((nr,nc,obs))
-                        queue.append((nr,nc,obs,steps+1))
-                    elif (nr,nc,obs-1) not in seen and grid[nr][nc] == 1 and obs:
-                        seen.add((nr,nc,obs-1))
-                        queue.append((nr,nc,obs-1,steps+1))
+                    if (nr,nc,rem) not in seen and grid[nr][nc] == 0:
+                        seen.add((nr,nc,rem))
+                        queue.append((nr,nc,rem,steps+1))
+                    elif (nr,nc,rem-1) not in seen and grid[nr][nc] == 1 and rem:
+                        seen.add((nr,nc,rem-1))                                
+                        queue.append((nr,nc,rem-1,steps+1))
         return -1
