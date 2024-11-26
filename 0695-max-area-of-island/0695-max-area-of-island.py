@@ -25,7 +25,7 @@ class Solution:
         res = 0
         for i in range(ROWS):
             for j in range(COLS):
-                if (i, j) not in seen and grid[i][j] == 1:
+                if valid(i,j):
                     seen.add((i, j))
                     res = max(res, dfs(i, j))
         return res
