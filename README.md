@@ -437,6 +437,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0042-trapping-rain-water](https://github.com/AdityaOjhalang/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AdityaOjhalang/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/AdityaOjhalang/Leetcode/tree/master/0198-house-robber) |
@@ -456,6 +457,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0013-roman-to-integer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AdityaOjhalang/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0189-rotate-array) |
@@ -634,5 +636,6 @@ This is a collection of all the problems I have solved on Leetcode
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
