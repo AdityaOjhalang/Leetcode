@@ -16,6 +16,8 @@ class Solution:
                 return steps
             for x,y in directions:
                 nr,nc = row+x,col+y
+                if validExit(nr,nc) and valid(nr,nc):
+                    return steps+1
                 if valid(nr,nc):
                     seen.add((nr,nc))
                     queue.append((nr,nc,steps+1))
