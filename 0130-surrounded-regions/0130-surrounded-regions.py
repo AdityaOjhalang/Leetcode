@@ -7,32 +7,32 @@ class Solution:
             return
 
         ROWS, COLS = len(board), len(board[0])
-        directions = [(0, 1), (1, 0), (-1, 0), (0, -1)]
+        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
 
-        def mark(r, c):
-            if (r < 0 or r >= ROWS or c < 0 or c >= COLS) or board[r][c] != "O":
+        def dfs(row, col):
+            if row < 0 or row >= ROWS or col < 0 or col >= COLS or board[row][col] != "O":
                 return
-            board[r][c] = "E"
-            for x, y in directions:
-                nr, nc = x + r, y + c
-                mark(nr,nc)
 
-        for r in range(ROWS):
-            if board[r][0] == "O":
-                mark(r,0)
-            if board[r][COLS-1] == "O":
-                mark(r,COLS-1)
+            board[row][col] = "E"
+            for x, y in directions:
+                nr, nc = row + x, col + y
+                dfs(nr, nc)
 
         for c in range(COLS):
             if board[0][c] == "O":
-                mark(0,c)
+                dfs(0,c)
             if board[ROWS-1][c] == "O":
-                mark(ROWS-1,c)
+                dfs(ROWS-1,c)
+        
+        for r in range(ROWS):
+            if board[r][0] == "O":
+                dfs(r,0)
+            if board[r][COLS-1] == "O":
+                dfs(r,COLS-1)
         
         for i in range(ROWS):
             for j in range(COLS):
                 if board[i][j] == "O":
                     board[i][j] = "X"
-                elif board[i][j] == "E":
+                if board[i][j] == "E":
                     board[i][j] = "O"
-        
