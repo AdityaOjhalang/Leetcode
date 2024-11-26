@@ -181,6 +181,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaOjhalang/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AdityaOjhalang/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AdityaOjhalang/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -333,6 +334,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AdityaOjhalang/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AdityaOjhalang/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -523,6 +525,7 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaOjhalang/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AdityaOjhalang/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
