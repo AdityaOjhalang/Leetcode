@@ -13,7 +13,6 @@ class Solution:
             )
 
         def dfs(row, col):
-            seen.add((row, col))
             area = 1
             for x, y in directions:
                 nr, nc = row + x, col + y
