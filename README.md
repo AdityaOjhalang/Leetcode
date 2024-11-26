@@ -211,6 +211,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0128-longest-consecutive-sequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AdityaOjhalang/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AdityaOjhalang/Leetcode/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/AdityaOjhalang/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0162-find-peak-element) |
@@ -279,6 +280,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0127-word-ladder](https://github.com/AdityaOjhalang/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/AdityaOjhalang/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AdityaOjhalang/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -313,6 +315,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0079-word-search](https://github.com/AdityaOjhalang/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AdityaOjhalang/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AdityaOjhalang/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/AdityaOjhalang/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AdityaOjhalang/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -440,6 +443,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0070-climbing-stairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/AdityaOjhalang/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AdityaOjhalang/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0392-is-subsequence) |
@@ -589,6 +593,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/AdityaOjhalang/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AdityaOjhalang/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
@@ -637,5 +642,6 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AdityaOjhalang/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
