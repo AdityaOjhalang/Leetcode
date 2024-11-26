@@ -19,7 +19,7 @@ class Solution:
         
         for i in range(ROWS):
             for j in range(COLS):
-                if (i,j) not in seen and grid[i][j]=="1":
+                if (i,j) not in seen and valid(i,j):
                     res+=1
                     seen.add((i,j))
                     dfs(i,j)
