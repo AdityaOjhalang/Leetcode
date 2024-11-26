@@ -8,18 +8,18 @@ class Solution:
         res = 0
 
         def valid(row,col):
-            return 0 <= row < ROWS and 0 <= col < COLS and grid[row][col] == "1"
+            return 0 <= row < ROWS and 0 <= col < COLS and grid[row][col] == "1" and (row,col) not in seen
         
         def dfs(row,col):
             for x,y in directions:
                 nr,nc = row+x,col+y
-                if valid(nr,nc) and (nr,nc) not in seen:
+                if valid(nr,nc):
                     seen.add((nr,nc))
                     dfs(nr,nc)
         
         for i in range(ROWS):
             for j in range(COLS):
-                if (i,j) not in seen and valid(i,j):
+                if valid(i,j):
                     res+=1
                     seen.add((i,j))
                     dfs(i,j)
