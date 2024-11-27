@@ -291,6 +291,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0290-word-pattern](https://github.com/AdityaOjhalang/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AdityaOjhalang/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/AdityaOjhalang/Leetcode/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
@@ -325,6 +326,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0242-valid-anagram](https://github.com/AdityaOjhalang/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AdityaOjhalang/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AdityaOjhalang/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/AdityaOjhalang/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -347,6 +349,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0274-h-index](https://github.com/AdityaOjhalang/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/AdityaOjhalang/Leetcode/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityaOjhalang/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -609,6 +612,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AdityaOjhalang/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/AdityaOjhalang/Leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
