@@ -16,12 +16,12 @@ class Solution:
         res = []
         def backtrack(i,path):
             if len(path) == len(digits):
-                res.append("".join(path))
+                res.append(''.join(path))
                 return
             
-            possible = letters[digits[i]]
-            for curr in possible:
-                path.append(curr)
+            possiblechars = letters[digits[i]]
+            for char in possiblechars:
+                path.append(char)
                 backtrack(i+1,path)
                 path.pop()
 
