@@ -19,5 +19,5 @@ class Solution:
                     rmax = r
                 l-=1
                 r+=1
-        res = s[lmax:rmax+1]
-        return res
+        
+        return s[lmax:rmax+1] if s else None
