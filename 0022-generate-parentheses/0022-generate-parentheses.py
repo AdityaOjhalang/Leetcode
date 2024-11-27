@@ -1,10 +1,11 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        res , sol = [] , []
+        ans, sol = [] , []
 
         def backtrack(open,close):
+
             if len(sol) == n*2:
-                res.append(''.join(sol))
+                ans.append(''.join(sol))
                 return
             
             if open < n:
@@ -16,9 +17,5 @@ class Solution:
                 sol.append(")")
                 backtrack(open,close+1)
                 sol.pop()
-        
         backtrack(0,0)
-        return res 
-
-
-    
+        return ans
