@@ -385,6 +385,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
