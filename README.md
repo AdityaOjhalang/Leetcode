@@ -193,6 +193,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0045-jump-game-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AdityaOjhalang/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AdityaOjhalang/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/AdityaOjhalang/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AdityaOjhalang/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AdityaOjhalang/Leetcode/tree/master/0056-merge-intervals) |
@@ -372,6 +373,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaOjhalang/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/AdityaOjhalang/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaOjhalang/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -458,6 +460,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0022-generate-parentheses](https://github.com/AdityaOjhalang/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AdityaOjhalang/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/AdityaOjhalang/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityaOjhalang/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
