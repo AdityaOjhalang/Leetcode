@@ -4,5 +4,6 @@ class Solution:
         currmax = nums[0]
         for num in nums[1:]:
             currmax = max(num,num+currmax)
-            res = max(currmax,res)
+            if currmax > res:
+                res = currmax
         return res
