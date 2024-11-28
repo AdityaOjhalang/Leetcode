@@ -282,6 +282,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0127-word-ladder](https://github.com/AdityaOjhalang/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/AdityaOjhalang/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AdityaOjhalang/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0169-majority-element) |
@@ -386,6 +387,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0002-add-two-numbers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AdityaOjhalang/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0206-reverse-linked-list) |
