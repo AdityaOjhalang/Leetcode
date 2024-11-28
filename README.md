@@ -385,6 +385,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -542,6 +543,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0011-container-with-most-water](https://github.com/AdityaOjhalang/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AdityaOjhalang/Leetcode/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
