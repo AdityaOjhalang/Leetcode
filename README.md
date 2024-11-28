@@ -387,6 +387,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/AdityaOjhalang/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -652,6 +653,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
