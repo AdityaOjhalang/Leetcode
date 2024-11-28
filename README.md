@@ -227,6 +227,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0219-contains-duplicate-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AdityaOjhalang/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/AdityaOjhalang/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0252-meeting-rooms](https://github.com/AdityaOjhalang/Leetcode/tree/master/0252-meeting-rooms) |
 | [0274-h-index](https://github.com/AdityaOjhalang/Leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -347,6 +348,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AdityaOjhalang/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaOjhalang/Leetcode/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/AdityaOjhalang/Leetcode/tree/master/0252-meeting-rooms) |
 | [0274-h-index](https://github.com/AdityaOjhalang/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
