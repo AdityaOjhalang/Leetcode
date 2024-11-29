@@ -10,11 +10,11 @@ from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         oldnew = {}
-
+        
         def dfs(node):
             if node in oldnew:
-                return oldnew[node]
-
+                return oldnew[node] # copy 
+            
             copy = Node(node.val)
             oldnew[node] = copy
             for neigh in node.neighbors:
@@ -22,3 +22,5 @@ class Solution:
             return copy
         
         return dfs(node) if node else None
+
+
