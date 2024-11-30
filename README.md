@@ -19,6 +19,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityaOjhalang/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -132,6 +133,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/AdityaOjhalang/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -159,6 +161,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaOjhalang/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0173-binary-search-tree-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -411,6 +414,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Union Find
 |  |
 | ------- |
@@ -580,6 +584,7 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0146-lru-cache](https://github.com/AdityaOjhalang/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AdityaOjhalang/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -697,4 +702,8 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AdityaOjhalang/Leetcode/tree/master/0146-lru-cache) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
