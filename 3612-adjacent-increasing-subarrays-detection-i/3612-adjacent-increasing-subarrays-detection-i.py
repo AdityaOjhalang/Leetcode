@@ -2,8 +2,8 @@ class Solution:
     def hasIncreasingSubarrays(self, nums: List[int], k: int) -> bool:
 
         def checkinc(i):
-            for j in range(i + 1, i + k):
-                if nums[j] <= nums[j - 1]:
+            for j in range(i, i + k - 1):
+                if nums[j] >= nums[j + 1]:
                     return False
             return True
 
