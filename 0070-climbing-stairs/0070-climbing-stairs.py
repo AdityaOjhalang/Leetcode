@@ -1,16 +1,15 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        if n == 1:
-            return 1
-        if n == 2:
-            return 2
+        memo = {}
+        def dp(i):
+            if i == 1:
+                return 1
+            if i == 2:
+                return 2
+
+            if i in memo:
+                return memo[i]
             
-        ways = [0]* (n+1)
-
-        ways[1] = 1
-        ways[2] = 2
-
-        for i in range(3,n+1):
-            ways[i] = ways[i-1] + ways[i-2]
-        
-        return ways[n] 
+            memo[i] = dp(i-1) + dp(i-2)
+            return memo[i]
+        return dp(n)
