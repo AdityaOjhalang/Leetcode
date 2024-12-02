@@ -13,6 +13,5 @@ class Solution:
             prevstart = i - best[i] # total length - curr subarr length
             if prevstart >= 0:
                 mx = max(mx,min(best[prevstart],best[i]))
-            
             mx = max(mx, best[i] // 2)
         return mx
