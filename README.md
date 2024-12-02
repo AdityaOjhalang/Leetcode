@@ -182,6 +182,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Array
 |  |
 | ------- |
@@ -279,6 +280,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3639-zero-array-transformation-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -644,6 +646,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0560-subarray-sum-equals-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3639-zero-array-transformation-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Merge Sort
 |  |
 | ------- |
