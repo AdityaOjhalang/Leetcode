@@ -6,8 +6,8 @@ class Solution:
             if nums[i] != nums[i-1]:
                 count = 1
             else:
-                count +=1
-            if count <= 2:
+                count += 1
+            if count <=2:
                 nums[toadd] = nums[i]
                 toadd += 1
         return toadd
