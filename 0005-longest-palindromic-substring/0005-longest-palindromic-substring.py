@@ -6,7 +6,7 @@ class Solution:
 
             # odd length
             l, r = i, i
-            while i >= 0 and r < n and s[l] == s[r]:
+            while l >= 0 and r < n and s[l] == s[r]:
                 if (rmax - lmax + 1) <= (r - l + 1):
                     lmax = l
                     rmax = r
@@ -15,7 +15,7 @@ class Solution:
 
             # even length
             l,r = i,i+1
-            while i >= 0 and r < n and s[l] == s[r]:
+            while l >= 0 and r < n and s[l] == s[r]:
                 if (rmax - lmax + 1) <= (r - l + 1):
                     lmax = l
                     rmax = r
