@@ -6,12 +6,13 @@ class Solution:
         for char in s:
             if char in hmap:
                 stack.append(char)
+            
             else:
                 if stack:
                     lastopen = stack.pop()
-                    if char != hmap[lastopen]:
+                    if hmap[lastopen] != char:
                         return False
                 else:
                     return False 
-
+        
         return True if len(stack) == 0 else False
