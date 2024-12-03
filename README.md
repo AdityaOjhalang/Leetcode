@@ -280,6 +280,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/AdityaOjhalang/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -391,6 +392,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/AdityaOjhalang/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -571,6 +573,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/AdityaOjhalang/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 ## Two Pointers
 |  |
 | ------- |
