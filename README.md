@@ -251,6 +251,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0560-subarray-sum-equals-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/AdityaOjhalang/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0772-construct-quad-tree) |
@@ -431,6 +432,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0739-daily-temperatures](https://github.com/AdityaOjhalang/Leetcode/tree/master/0739-daily-temperatures) |
 ## Union Find
 |  |
 | ------- |
@@ -681,6 +683,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityaOjhalang/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/AdityaOjhalang/Leetcode/tree/master/0739-daily-temperatures) |
 ## String Matching
 |  |
 | ------- |
