@@ -260,6 +260,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0917-boats-to-save-people](https://github.com/AdityaOjhalang/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0945-snakes-and-ladders](https://github.com/AdityaOjhalang/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AdityaOjhalang/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0976-minimum-area-rectangle](https://github.com/AdityaOjhalang/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/AdityaOjhalang/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/AdityaOjhalang/Leetcode/tree/master/1127-last-stone-weight) |
@@ -321,6 +322,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0560-subarray-sum-equals-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0976-minimum-area-rectangle](https://github.com/AdityaOjhalang/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1023-time-based-key-value-store](https://github.com/AdityaOjhalang/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AdityaOjhalang/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -382,6 +384,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/AdityaOjhalang/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0976-minimum-area-rectangle](https://github.com/AdityaOjhalang/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/AdityaOjhalang/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
@@ -520,6 +523,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0172-factorial-trailing-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaOjhalang/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0976-minimum-area-rectangle](https://github.com/AdityaOjhalang/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1013-fibonacci-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1448-maximum-69-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1448-maximum-69-number) |
@@ -528,6 +532,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Geometry
 |  |
 | ------- |
+| [0976-minimum-area-rectangle](https://github.com/AdityaOjhalang/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2206-detonate-the-maximum-bombs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Topological Sort
