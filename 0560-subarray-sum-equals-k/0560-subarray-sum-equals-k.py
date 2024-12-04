@@ -6,6 +6,7 @@ class Solution:
 
         for num in nums:
             currsum += num
-            res += sums.get(currsum - k, 0)
-            sums[currsum] = 1 + sums.get(currsum,0)
+            res += sums.get(currsum-k,0)
+            sums[currsum] = sums.get(currsum,0) + 1
+
         return res
