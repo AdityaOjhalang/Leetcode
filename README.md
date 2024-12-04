@@ -328,6 +328,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1464-reduce-array-size-to-the-half](https://github.com/AdityaOjhalang/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaOjhalang/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String
 |  |
 | ------- |
@@ -364,6 +365,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1023-time-based-key-value-store](https://github.com/AdityaOjhalang/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1894-merge-strings-alternately](https://github.com/AdityaOjhalang/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaOjhalang/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Sorting
 |  |
 | ------- |
@@ -653,6 +655,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0219-contains-duplicate-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaOjhalang/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaOjhalang/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
 |  |
 | ------- |
