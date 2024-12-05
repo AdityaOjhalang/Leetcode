@@ -16,7 +16,7 @@ class Solution:
         res = []
         def backtrack(i,path):
             if len(path) == len(digits):
-                res.append(''.join(path))
+                res.append("".join(path))
                 return
             
             possiblechars = letters[digits[i]]
@@ -26,4 +26,4 @@ class Solution:
                 path.pop()
 
         backtrack(0,[])
-        return res
+        return res 
