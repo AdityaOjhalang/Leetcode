@@ -223,6 +223,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0128-longest-consecutive-sequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AdityaOjhalang/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AdityaOjhalang/Leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/AdityaOjhalang/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -693,6 +694,7 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AdityaOjhalang/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/AdityaOjhalang/Leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
