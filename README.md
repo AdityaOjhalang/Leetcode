@@ -249,6 +249,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0252-meeting-rooms](https://github.com/AdityaOjhalang/Leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0274-h-index](https://github.com/AdityaOjhalang/Leetcode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AdityaOjhalang/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -629,6 +630,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaOjhalang/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/0189-rotate-array) |
 | [0253-meeting-rooms-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
