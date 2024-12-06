@@ -371,6 +371,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0383-ransom-note](https://github.com/AdityaOjhalang/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AdityaOjhalang/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaOjhalang/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -456,6 +457,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0394-decode-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/AdityaOjhalang/Leetcode/tree/master/0739-daily-temperatures) |
 ## Union Find
 |  |
@@ -746,6 +748,7 @@ This is a collection of all the problems I have solved on Leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
