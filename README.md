@@ -518,6 +518,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0045-jump-game-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AdityaOjhalang/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityaOjhalang/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AdityaOjhalang/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AdityaOjhalang/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -542,6 +543,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0009-palindrome-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AdityaOjhalang/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AdityaOjhalang/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/AdityaOjhalang/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AdityaOjhalang/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/0070-climbing-stairs) |
@@ -778,4 +780,8 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaOjhalang/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AdityaOjhalang/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
