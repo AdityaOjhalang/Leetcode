@@ -1,34 +1,25 @@
 from typing import List
-from bisect import bisect_right
+import heapq
 
 class Solution:
     def maxTwoEvents(self, events: List[List[int]]) -> int:
-        # Step 1: Sort events based on their end times
-        events.sort(key=lambda x: x[1])  # Sort by endTime
+        # Step 1: Sort events by start time
+        events.sort()
         
-        # To store the best value seen so far and the corresponding end time
-        best_value = 0
         max_sum = 0
-        event_values = []  # Stores [endTime, max_value_so_far]
+        max_value_so_far = 0
+        min_heap = []  # To store [endTime, value]
         
-        for i in range(len(events)):
-            start, end, value = events[i]
+        for start, end, value in events:
+            # Step 2: Remove all overlapping events from the heap
+            while min_heap and min_heap[0][0] < start:
+                _, heap_value = heapq.heappop(min_heap)
+                max_value_so_far = max(max_value_so_far, heap_value)
             
-            # Step 2: Binary Search to find the best previous event that doesn't overlap
-            pos = bisect_right(event_values, [start - 1, float('inf')]) - 1
+            # Step 3: Update the maximum sum considering the current event
+            max_sum = max(max_sum, value + max_value_so_far)
             
-            # Value if we include the current event with a previous best non-overlapping event
-            total_value = value
-            if pos >= 0:
-                total_value += event_values[pos][1]
-            
-            # Update the max sum
-            max_sum = max(max_sum, total_value)
-            
-            # Step 3: Update the best value seen so far
-            best_value = max(best_value, value)
-            
-            # Append to event_values list for binary search
-            event_values.append([end, best_value])
+            # Step 4: Add the current event to the heap
+            heapq.heappush(min_heap, (end, value))
         
         return max_sum
