@@ -301,6 +301,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -420,6 +421,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/AdityaOjhalang/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3647-zero-array-transformation-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -591,6 +593,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdityaOjhalang/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaOjhalang/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [3647-zero-array-transformation-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -615,6 +618,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/AdityaOjhalang/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3647-zero-array-transformation-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -701,6 +705,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3639-zero-array-transformation-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
 | ------- |
