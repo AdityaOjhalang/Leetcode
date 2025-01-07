@@ -4,12 +4,13 @@ class Solution:
         def backtrack(path):
             if len(path) == len(nums):
                 res.append(path[:])
-                return 
-            
+                return
+
             for num in nums:
                 if num not in path:
                     path.append(num)
                     backtrack(path)
                     path.pop()
+        
         backtrack([])
         return res
