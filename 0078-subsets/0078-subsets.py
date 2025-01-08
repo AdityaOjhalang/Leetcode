@@ -9,6 +9,5 @@ class Solution:
                 curr.append(nums[j])
                 backtrack(curr,j+1)
                 curr.pop()
-        
-        backtrack([] , 0)
+        backtrack([],0)
         return ans
