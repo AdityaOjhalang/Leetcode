@@ -293,6 +293,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaOjhalang/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2206-detonate-the-maximum-bombs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2245-destroying-asteroids](https://github.com/AdityaOjhalang/Leetcode/tree/master/2245-destroying-asteroids) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AdityaOjhalang/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -385,6 +386,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1023-time-based-key-value-store](https://github.com/AdityaOjhalang/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1894-merge-strings-alternately](https://github.com/AdityaOjhalang/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AdityaOjhalang/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaOjhalang/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Sorting
 |  |
@@ -747,6 +749,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AdityaOjhalang/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Database
 |  |
 | ------- |
