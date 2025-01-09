@@ -69,6 +69,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0547-number-of-provinces](https://github.com/AdityaOjhalang/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
+| [0813-all-paths-from-source-to-target](https://github.com/AdityaOjhalang/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/AdityaOjhalang/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -110,6 +111,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0637-average-of-levels-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
+| [0813-all-paths-from-source-to-target](https://github.com/AdityaOjhalang/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/AdityaOjhalang/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/AdityaOjhalang/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -506,6 +508,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/AdityaOjhalang/Leetcode/tree/master/0547-number-of-provinces) |
+| [0813-all-paths-from-source-to-target](https://github.com/AdityaOjhalang/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/AdityaOjhalang/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/AdityaOjhalang/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaOjhalang/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -758,6 +761,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0077-combinations](https://github.com/AdityaOjhalang/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AdityaOjhalang/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AdityaOjhalang/Leetcode/tree/master/0079-word-search) |
+| [0813-all-paths-from-source-to-target](https://github.com/AdityaOjhalang/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Recursion
 |  |
 | ------- |
