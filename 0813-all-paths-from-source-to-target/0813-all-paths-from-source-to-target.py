@@ -5,7 +5,7 @@ class Solution:
         def backtrack(path,node):
             if node == target:
                 res.append(path[:])
-                return 
+                return
             for neigh in graph[node]:
                 path.append(neigh)
                 backtrack(path,neigh)
