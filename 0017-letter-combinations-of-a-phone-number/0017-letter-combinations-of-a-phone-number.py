@@ -10,20 +10,17 @@ class Solution:
             "8": "tuv",
             "9": "wxyz",
         }
-
         if len(digits) == 0:
             return []
         res = []
-        def backtrack(i,path):
+        def backtrack(path,i):
             if len(path) == len(digits):
                 res.append("".join(path))
-                return
-            
+                return 
             possiblechars = letters[digits[i]]
-            for char in possiblechars:
+            for char in possiblechars :
                 path.append(char)
-                backtrack(i+1,path)
+                backtrack(path,i+1)
                 path.pop()
-
-        backtrack(0,[])
-        return res 
+        backtrack([],0)
+        return res
