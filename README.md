@@ -115,6 +115,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0871-keys-and-rooms](https://github.com/AdityaOjhalang/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/AdityaOjhalang/Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/AdityaOjhalang/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/AdityaOjhalang/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/AdityaOjhalang/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -765,6 +766,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0078-subsets](https://github.com/AdityaOjhalang/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AdityaOjhalang/Leetcode/tree/master/0079-word-search) |
 | [0813-all-paths-from-source-to-target](https://github.com/AdityaOjhalang/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/AdityaOjhalang/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Recursion
 |  |
 | ------- |
