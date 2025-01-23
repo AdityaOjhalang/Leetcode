@@ -6,11 +6,10 @@ class Solution:
                 return 
             last = path[-1]
             for i in range(10):
-                if abs(i-last) == k:
+                if abs(last-i) == k:
                     path.append(i)
                     backtrack(path,currnum*10+i)
                     path.pop()
-        
         res = []
         for start in range(1,10):
             backtrack([start],start)
