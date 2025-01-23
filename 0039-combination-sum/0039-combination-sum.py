@@ -3,14 +3,12 @@ class Solution:
         def backtrack(path,i,currsum):
             if currsum == target:
                 res.append(path[:])
-                return
+                return 
             for j in range(i,len(candidates)):
-                num = candidates[j]
-                if num + currsum <= target:
-                    path.append(num)
-                    backtrack(path,j,currsum+num)
+                if currsum + candidates[j] <= target:
+                    path.append(candidates[j])
+                    backtrack(path,j,currsum+candidates[j])
                     path.pop()
-        
         res = []
         backtrack([],0,0)
-        return res
+        return res 
