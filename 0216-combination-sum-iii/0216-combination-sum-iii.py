@@ -4,7 +4,8 @@ class Solution:
             if len(path) == k:
                 if currsum == n:
                     res.append(path[:])
-                return
+                return 
+            
             for j in range(i,10):
                 if currsum + j <= n:
                     path.append(j)
@@ -12,4 +13,4 @@ class Solution:
                     path.pop()
         res = []
         backtrack([],1,0)
-        return res 
+        return res
