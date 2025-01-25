@@ -4,7 +4,6 @@ class Solution:
         def dp(i):
             if i >= len(questions):
                 return 0
-            ans = max(questions[i][0] + dp(i + questions[i][1] + 1), dp(i+1))
-            return ans 
+            return max(questions[i][0] + dp(i + questions[i][1] + 1), dp(i+1))
         
         return dp(0)
