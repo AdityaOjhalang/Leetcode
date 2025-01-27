@@ -1,18 +1,22 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         coins.sort()
-        dp = [0] * (amount + 1)
+        memo = {0:0}
 
-        for amt in range(1,amount+1):
+        def dp(amt):
+            if amt in memo:
+                return memo[amt]
             mincoins = float("inf")
             for c in coins:
                 diff = amt - c
                 if diff < 0:
                     break
-                mincoins = min(mincoins , dp[diff] + 1)
-            dp[amt] = mincoins 
+                mincoins = min(mincoins,dp(diff) + 1)
+            memo[amt] = mincoins 
+            return mincoins
         
-        if dp[amount] < float("inf"):
-            return dp[amount]
+        result = dp(amount)
+        if result < float("inf"):
+            return result 
         else:
             return -1 
