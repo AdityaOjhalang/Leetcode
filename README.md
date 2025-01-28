@@ -287,6 +287,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/AdityaOjhalang/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AdityaOjhalang/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/AdityaOjhalang/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AdityaOjhalang/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1428-jump-game-iii) |
@@ -551,6 +552,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0954-maximum-sum-circular-subarray](https://github.com/AdityaOjhalang/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/AdityaOjhalang/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaOjhalang/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/AdityaOjhalang/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Shortest Path
@@ -718,6 +720,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0238-product-of-array-except-self](https://github.com/AdityaOjhalang/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/AdityaOjhalang/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3639-zero-array-transformation-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3643-zero-array-transformation-ii) |
