@@ -1,8 +1,6 @@
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
         UNVISITED,VISITING,VISITED = 0,1,2
-        safe = set()
-        unsafe = set()
         state = [UNVISITED] * len(graph)
         def dfs(node):
             if state[node] == VISITED:
@@ -19,6 +17,7 @@ class Solution:
             return True 
 
         res = []
+        #Find all Safe Nodes 
         for i in range(len(graph)):
             if dfs(i):
                 res.append(i)
