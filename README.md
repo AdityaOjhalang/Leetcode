@@ -270,6 +270,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0560-subarray-sum-equals-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaOjhalang/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/AdityaOjhalang/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
@@ -548,6 +549,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0322-coin-change](https://github.com/AdityaOjhalang/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaOjhalang/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AdityaOjhalang/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1013-fibonacci-number) |
@@ -623,6 +625,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0253-meeting-rooms-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityaOjhalang/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaOjhalang/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0917-boats-to-save-people](https://github.com/AdityaOjhalang/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/AdityaOjhalang/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/AdityaOjhalang/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
