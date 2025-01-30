@@ -1,9 +1,16 @@
 class Solution:
-    def uniquePaths(self, ROWS: int, COLS: int) -> int:
-        dp = [[1]*COLS for _ in range(ROWS)] #basecase
-
-        for i in range(1,ROWS):
-            for j in range(1,COLS):
-                dp[i][j] = dp[i-1][j] + dp[i][j-1]
-
-        return dp[ROWS-1][COLS-1]
+    def uniquePaths(self, m: int, n: int) -> int:
+        @cache
+        def dp(row,col):
+            if row == col == 0:
+                return 1
+            
+            ways = 0
+            if row > 0: #for cases like (0,1) if not this condition it will call (-1,1) so this condition is importantn
+                ways += dp(row-1,col) 
+            if col > 0:
+                ways += dp(row,col-1)
+            
+            return ways
+        
+        return dp(m-1,n-1)
