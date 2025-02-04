@@ -1,18 +1,21 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
         @cache
-        def dp(i,j):
-            if i == j == 0:
-                return grid[i][j]
-            
+        def dp(row, col):
+            if row == col == 0:
+                return grid[0][0]
+
             ans = float("inf")
-            if i > 0:
-                ans = min(ans,dp(i-1,j))
-            if j > 0:
-                ans = min(ans,dp(i,j-1))
+            if row > 0:
+                ans = min(ans, dp(row - 1, col))
+            if col > 0:
+                ans = min(ans, dp(row, col - 1))
             
-            return ans + grid[i][j]
-            
+            return ans + grid[row][col]
+        
         m = len(grid)
         n = len(grid[0])
+
         return dp(m-1,n-1)
+        
+
