@@ -15,9 +15,9 @@ class Solution:
                 currmax = node.val
                 count = 1
             
-            left = dfs(node.left ,currmax)
-            right = dfs(node.right,currmax)
+            leftcount = dfs(node.left ,currmax)
+            rightcount = dfs(node.right,currmax)
 
-            return left + right + count 
+            return leftcount + rightcount + count 
         
         return dfs(root,root.val)
