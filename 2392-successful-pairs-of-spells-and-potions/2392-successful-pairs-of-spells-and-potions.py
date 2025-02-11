@@ -4,13 +4,13 @@ class Solution:
     ) -> List[int]:
         def leftstart(arr, target):
             left = 0
-            right = len(arr) - 1
+            right = len(arr)
 
-            while left <= right:
+            while left < right:
                 mid = (left + right) // 2
                 val = arr[mid]
                 if val >= target:
-                    right = mid - 1
+                    right = mid 
                 else:
                     left = mid + 1
 
