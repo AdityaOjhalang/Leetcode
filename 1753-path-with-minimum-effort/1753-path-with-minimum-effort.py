@@ -13,10 +13,10 @@ class Solution:
                 nr,nc = row + x , col + y
                 if valid(nr,nc) and (nr,nc) not in seen:
                     if abs(heights[row][col] - heights[nr][nc] ) <= mid:
-                        seen.add((nr,nc))
                         if check(nr,nc,mid,seen):
                             return True 
-           
+            return False 
+            
         left, right = 0, max(max(row) for row in heights)
         while left <= right:
             mid = (left + right) // 2
