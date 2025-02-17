@@ -16,7 +16,7 @@ class Solution:
                         seen.add((nr,nc))
                         if check(nr,nc,mid,seen):
                             return True 
-            return False
+           
         left, right = 0, max(max(row) for row in heights)
         while left <= right:
             mid = (left + right) // 2
