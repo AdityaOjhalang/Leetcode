@@ -7,11 +7,10 @@ class Solution:
             return hours <= h
         
         l , r = 1, max(piles)
-        while l < r:
+        while l <= r:
             k = (l+r)// 2
             if check(k):
-                r = k
+                r = k - 1
             else:
                 l = k+1
-        return r
-    
+        return l    
