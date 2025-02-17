@@ -16,8 +16,8 @@ class Solution:
                         if check(nr,nc,mid,seen):
                             return True 
             return False 
-            
-        left, right = 0, max(max(row) for row in heights)
+
+        left, right = 0, max(max(row) for row in heights) - min(min(row) for row in heights)
         while left <= right:
             mid = (left + right) // 2
             if check(0, 0, mid, set()):  # Use a set to track visited cells
