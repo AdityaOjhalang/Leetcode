@@ -24,7 +24,7 @@ class Solution:
         left = leftinsrt(nums,target)
         right = rightinsrt(nums,target)
 
-        if left <= right and left < len(nums) and nums[left] == target:
+        if left <= right and right < len(nums) and nums[left] == target:
             return [left, right]
         else:
             return [-1,-1]
