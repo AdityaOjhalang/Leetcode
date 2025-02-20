@@ -4,14 +4,9 @@ class Solution:
         start = 0
         res = 0
         for end in range(len(s)):
-            curr = s[end]
-            while curr in charind and charind[curr] >= start:
+            char = s[end]
+            while char in charind and charind[char] >= start:
                 start += 1
-            
-            charind[curr] = end
-            res = max(res,end-start+1)
-        print(charind)
+            charind[char] = end
+            res = max(res,abs(start-end)+1)
         return res
-
-            
-
