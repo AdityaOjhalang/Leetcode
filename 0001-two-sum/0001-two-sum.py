@@ -1,12 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hmap = {}
-
-        for i in range(len(nums)):
-            complement = target - nums[i]
-            if complement in hmap:
-                return [hmap[complement] , i]
-                 
-            else:
-                hmap[nums[i]] = i
-        return []
+        for i,num in enumerate(nums):
+            compl = target - num
+            if compl in hmap:
+                return [hmap[compl],i]
+            hmap[num] = i
+        
