@@ -6,5 +6,4 @@ class Solution:
             heapq.heappush(heap,(-dist,(x,y)))
             if len(heap) > k:
                 heapq.heappop(heap)
-        
         return [val[1] for val in heap]
