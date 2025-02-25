@@ -8,5 +8,5 @@ class Solution:
             while char in charind and charind[char] >= start:
                 start += 1
             charind[char] = end
-            res = max(res,abs(start-end)+1)
+            res = max(res,end-start+1)
         return res
