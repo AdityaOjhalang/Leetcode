@@ -13,12 +13,12 @@ class Solution:
         while curr and curr.next: # curr.next will make sure curr is not null when we want to create cycle
             curr = curr.next
             n+=1
-        #creating a loop
-        curr.next = head
         #effective rotations 
         k = k%n
         if k == 0:
             return head 
+                #creating a loop
+        curr.next = head
         #go to the new tail 
         tail = head
         for _ in range(n-k-1): 
