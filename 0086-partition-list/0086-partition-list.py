@@ -5,19 +5,17 @@
 #         self.next = next
 class Solution:
     def partition(self, head: Optional[ListNode], x: int) -> Optional[ListNode]:
-        leftdummy,rightdummy = ListNode(),ListNode()
-        left,right = leftdummy,rightdummy
+        leftd,rightd = ListNode(),ListNode()
+        l,r = leftd,rightd
         curr = head
         while curr:
             if curr.val < x:
-                left.next = curr
-                left = left.next
+                l.next = curr
+                l = l.next
             else:
-                right.next = curr
-                right = right.next
+                r.next = curr
+                r = r.next
             curr = curr.next
-        
-        left.next = rightdummy.next
-        #right pointer might still pe pointing somewhere in the original list put it none and eliminate cycle
-        right.next = None
-        return leftdummy.next
+        l.next = rightd.next
+        r.next = None
+        return leftd.next
