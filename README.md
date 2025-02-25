@@ -485,6 +485,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0002-add-two-numbers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AdityaOjhalang/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0086-partition-list) |
@@ -708,6 +709,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0027-remove-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/AdityaOjhalang/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0086-partition-list) |
