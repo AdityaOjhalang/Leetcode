@@ -5,28 +5,29 @@
 #         self.next = next
 class Solution:
     def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        if not head  or k == 0:
+        if not head or k == 0:
             return head
-        curr = head
+        #finding the length of linkedlist
         n = 1
-        while curr and curr.next: #curr.next will make sure that curr is not null
+        curr = head
+        while curr and curr.next: # curr.next will make sure curr is not null when we want to create cycle
             curr = curr.next
             n+=1
-        #effective rotations (value of k)
-        k = k%n # for k > n 
-        if k == 0:
-            return head
-        
-        #make a cycle
+        #creating a loop
         curr.next = head
+        #effective rotations 
+        k = k%n
+        if k == 0:
+            return head 
+        #go to the new tail 
         tail = head
-        for _ in range(n-k-1):
+        for _ in range(n-k-1): 
             tail = tail.next
-        
-        #break cycle
+        #new head and tail config
         newhead = tail.next
         tail.next = None
 
         return newhead
-       
+
+        
         
