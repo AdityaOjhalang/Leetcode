@@ -7,11 +7,9 @@
 class Solution:
     def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
         arr = []
-
         def dfs(node):
             if not node:
                 return 
-            
             dfs(node.left)
             arr.append(node.val)
             dfs(node.right)
@@ -19,5 +17,6 @@ class Solution:
         dfs(root)
         res = float("inf")
         for i in range(1,len(arr)):
-            res = min(res, arr[i] - arr[i-1])
-        return res 
+            res = min(res,arr[i] - arr[i-1])
+        
+        return res
