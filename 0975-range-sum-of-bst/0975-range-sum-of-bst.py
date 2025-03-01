@@ -9,11 +9,13 @@ class Solution:
         if not root:
             return 0
         
-        res = 0 
+        ans = 0
         if low <= root.val <= high:
-            res += root.val
+            ans += root.val
+        
         if root.val > low:
-            res += self.rangeSumBST(root.left,low,high)
+            ans += self.rangeSumBST(root.left,low,high)
         if root.val < high:
-            res += self.rangeSumBST(root.right,low,high)
-        return res
+            ans += self.rangeSumBST(root.right,low,high)
+
+        return ans 
