@@ -36,6 +36,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/AdityaOjhalang/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -78,6 +79,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0871-keys-and-rooms](https://github.com/AdityaOjhalang/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/AdityaOjhalang/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1428-jump-game-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1428-jump-game-iii) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -171,6 +173,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/AdityaOjhalang/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
