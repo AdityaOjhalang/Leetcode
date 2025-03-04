@@ -6,20 +6,23 @@
 #         self.right = right
 class Solution:
     def flatten(self, root: Optional[TreeNode]) -> None:
+        """
+        Do not return anything, modify root in-place instead.
+        """
         def dfs(root):
             if not root:
                 return None
             
             leftail = dfs(root.left)
-            rightail = dfs(root.right)
+            righttail = dfs(root.right)
 
             if root.left:
                 leftail.right = root.right
                 root.right = root.left
-                root.left = None
-            
-            lastail = rightail or leftail or root
-            return lastail
-        
-        dfs(root)
+                root.left = None 
 
+            #non leaf nodes will have a right tail because we moved everything to rightside
+            lastail = righttail or leftail or root
+            return lastail 
+
+        dfs(root)
