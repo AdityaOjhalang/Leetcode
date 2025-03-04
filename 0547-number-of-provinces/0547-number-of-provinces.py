@@ -1,10 +1,8 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        
         n = len(isConnected)
-        graph = defaultdict(list)
         seen = set()
-        res = 0
+        graph = defaultdict(list)
 
         for i in range(n):
             for j in range(n):
@@ -19,11 +17,12 @@ class Solution:
                 if neigh not in seen:
                     seen.add(neigh)
                     dfs(neigh)
-
+        provinces = 0
         for i in range(n):
             if i not in seen:
-                res += 1
                 seen.add(i)
+                provinces += 1
                 dfs(i)
+        return provinces
 
-        return res
+                     
