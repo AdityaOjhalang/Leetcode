@@ -5,21 +5,22 @@
 #         self.next = next
 class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
-        def findmid(head: Optional[ListNode]):
+        def findmid(head):
             slow = fast = head
             while fast and fast.next:
-                slow = slow.next
                 fast = fast.next.next
+                slow = slow.next
             return slow 
-        def rev(head: Optional[ListNode]):
-            prev = None
-            curr = head
+        
+        def rev(head):
+            prev,curr = None,head
             while curr:
                 nextnode = curr.next
                 curr.next = prev
                 prev = curr
                 curr = nextnode
             return prev
+        
         mid = findmid(head)
         fast = rev(mid)
         slow = head
@@ -29,4 +30,3 @@ class Solution:
             fast = fast.next
             slow = slow.next
         return res
-
