@@ -9,20 +9,18 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        def dfs(root):
-            if not root:
-                return None
+        def dfs(node):
+            if not node:
+                return None 
+                
+            leftail = dfs(node.left)
+            rightail = dfs(node.right)
+
+            if node.left:
+                leftail.right = node.right
+                node.right = node.left 
+                node.left = None
             
-            leftail = dfs(root.left)
-            righttail = dfs(root.right)
-
-            if root.left:
-                leftail.right = root.right
-                root.right = root.left
-                root.left = None 
-
-            #non leaf nodes will have a right tail because we moved everything to rightside
-            lastail = righttail or leftail or root
-            return lastail 
-
+            
+            return rightail or leftail or node 
         dfs(root)
