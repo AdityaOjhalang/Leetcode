@@ -17,7 +17,7 @@ class Solution:
             square,rolls = queue.popleft()
             if cells[square] == n*n:
                 return rolls 
-            for i in range(7):
+            for i in range(1,7):
                 nextsq = square + i
                 row,col = cells[nextsq]
                 if board[row][col] != -1:
