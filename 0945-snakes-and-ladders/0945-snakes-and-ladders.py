@@ -8,7 +8,7 @@ class Solution:
             for j in columns:
                 cells[label] = (i,j)
                 label += 1
-            columns.reverse
+            columns.reverse()
         
         visited = {1}
         queue = deque([(1,0)])
