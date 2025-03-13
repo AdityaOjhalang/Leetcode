@@ -1,29 +1,32 @@
 class Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
         n = len(board)
-        cells = [None] * ( n**2 + 1 )
-        columns = list(range(n))
+        cells = [None] * (n**2 + 1)
         label = 1
-        for row in range(n-1,-1,-1):
-            for col in columns:
-                cells[label] = (row,col)
+        columns = list(range(n))
+        for i in range(n-1,-1,-1):
+            for j in columns:
+                cells[label] = (i,j)
                 label += 1
-            columns.reverse()
+            columns.reverse
         
-        queue = deque([(1,0)])
         visited = {1}
+        queue = deque([(1,0)])
 
         while queue:
-            square , moves = queue.popleft()
-            for i in range(1,7):
+            square,rolls = queue.popleft()
+            if cells[square] == n*n:
+                return rolls 
+            for i in range(7):
                 nextsq = square + i
                 row,col = cells[nextsq]
                 if board[row][col] != -1:
                     nextsq = board[row][col]
                 if nextsq == n * n:
-                    return moves + 1
+                    return rolls + 1
                 if nextsq not in visited:
                     visited.add(nextsq)
-                    queue.append((nextsq,moves+1))
-        return -1
+                    queue.append((nextsq,rolls+1))
+        return -1 
+
 
