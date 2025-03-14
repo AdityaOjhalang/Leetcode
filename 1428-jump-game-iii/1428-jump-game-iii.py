@@ -1,28 +1,28 @@
 class Solution:
     def canReach(self, arr: List[int], start: int) -> bool:
         n = len(arr)
-        def neighbors(ind):
-            res = []
-            first = ind + arr[ind]
-            second = ind - arr[ind]
 
-            if first < len(arr):
+        def neighbors(i):
+            res = []
+            first = i + arr[i]
+            second = i - arr[i]
+
+            if first < n:
                 res.append(first)
             if second >= 0:
                 res.append(second)
-            return res
-        
-        if arr[start] == 0:
-            return True
-        
-        queue = deque([(start)])
+            return res 
+            
         seen = {start}
+        queue = deque([(start)])
 
         while queue:
-            ind = queue.popleft()
-            if arr[ind] == 0:
+            node = queue.popleft()
+            if arr[node] == 0:
                 return True
-            for neigh in neighbors(ind):
+            for neigh in neighbors(node):
+                if arr[neigh] == 0:
+                    return True 
                 if neigh not in seen:
                     seen.add(neigh)
                     queue.append(neigh)
