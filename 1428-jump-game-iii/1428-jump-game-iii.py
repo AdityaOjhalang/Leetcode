@@ -1,16 +1,14 @@
 class Solution:
     def canReach(self, arr: List[int], start: int) -> bool:
         n = len(arr)
-        def valid(ind):
-            return 0 <= ind < n
         def neighbors(ind):
             res = []
             first = ind + arr[ind]
             second = ind - arr[ind]
 
-            if valid(first):
+            if first < len(arr):
                 res.append(first)
-            if valid(second):
+            if second >= 0:
                 res.append(second)
             return res
         
