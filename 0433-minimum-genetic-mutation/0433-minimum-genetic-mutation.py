@@ -1,17 +1,16 @@
 class Solution:
     def minMutation(self, startGene: str, endGene: str, bank: List[str]) -> int:
-        
         def neighbors(node):
             res = []
             for i in range(len(node)):
                 for char in "ACGT":
                     if char != node[i]:
-                        res.append(node[:i] + char + node[i+1:])
+                        res.append(node[0:i] + char + node[i+1:])
             return res
         
-        queue = deque([(startGene,0)])
         seen = {startGene}
         bank = set(bank)
+        queue = deque([(startGene,0)])
 
         while queue:
             node, steps = queue.popleft()
