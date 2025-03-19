@@ -5,24 +5,25 @@ class Solution:
         for crs,preq in prerequisites:
             graph[crs].append(preq)
         
-        state = [0] * n
-        UNVISITED,VISITING,VISITED = 0,1,2
+        UNVISITED, VISITING, VISITED = 0,1,2
+        states = [UNVISITED] * n
 
         def dfs(crs):
-            if state[crs] == VISITING:
+            if states[crs] == VISITING:
                 return False
-            if state[crs] == VISITED:
+            if states[crs] == VISITED:
                 return True
             
-            state[crs] = VISITING
+            states[crs] = VISITING
+
             for preq in graph[crs]:
                 if not dfs(preq):
                     return False
             
-            state[crs] = VISITED 
-            return True
+            states[crs] = VISITED
+            return True 
         
         for i in range(n):
             if not dfs(i):
-                return False
+                return False 
         return True 
