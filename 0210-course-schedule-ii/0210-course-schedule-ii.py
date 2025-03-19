@@ -1,19 +1,19 @@
 class Solution:
     def findOrder(self, n: int, prerequisites: List[List[int]]) -> List[int]:
-
-        order = []
+        res = []
         graph = defaultdict(list)
+
         for crs,preq in prerequisites:
             graph[crs].append(preq)
-        
-        VISITED , VISITING , UNVISITED = 2 , 1 , 0
-        state = [UNVISITED] * n
+
+        UNVISITED,VISITING,VISITED = 0,1,2
+        state = [UNVISITED] * n 
 
         def dfs(crs):
-            if state[crs] == VISITED:
-                return True
             if state[crs] == VISITING:
                 return False
+            if state[crs] == VISITED:
+                return True
             
             state[crs] = VISITING
             for preq in graph[crs]:
@@ -21,12 +21,14 @@ class Solution:
                     return False
             
             state[crs] = VISITED
-            order.append(crs)
+            res.append(crs)
             return True
         
         for i in range(n):
             if not dfs(i):
                 return []
-        
-        return order
 
+        return res 
+            
+
+            
