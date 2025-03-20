@@ -1,23 +1,21 @@
 class Solution:
-    def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
+    def calcEquation(
+        self, equations: List[List[str]], values: List[float], queries: List[List[str]]
+    ) -> List[float]:
         graph = defaultdict(list)
 
-        for i in range(len(equations)):
-            x , y = equations[i]
-            val = values[i]
-            graph[x].append((y,val))
-            graph[y].append((x,1/val))
+        for i, eq in enumerate(equations):
+            a, b = eq
+            graph[a].append((b, values[i]))
+            graph[b].append((a, 1 / values[i]))
         
-        def dfs(start,end):
-            if start not in graph or end not in graph:
+        def bfs(src,dst):
+            if src not in graph or dst not in graph:
                 return -1
-            
-            queue = deque([(start,1)])
-            seen = {start}
-
+            queue,seen = deque([(src,1)]), {src}
             while queue:
                 node,ratio = queue.popleft()
-                if node == end:
+                if node == dst:
                     return ratio
                 
                 for neigh,weight in graph[node]:
@@ -25,7 +23,8 @@ class Solution:
                         seen.add(neigh)
                         queue.append((neigh,weight*ratio))
             return -1
+            
         res = []
-        for x,y in queries:
-            res.append(dfs(x,y))
+        for x, y in queries:
+            res.append(bfs(x, y))
         return res
