@@ -298,6 +298,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -793,6 +794,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaOjhalang/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaOjhalang/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
