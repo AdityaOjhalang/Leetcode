@@ -209,6 +209,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0907-koko-eating-bananas](https://github.com/AdityaOjhalang/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1023-time-based-key-value-store](https://github.com/AdityaOjhalang/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1046-max-consecutive-ones-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AdityaOjhalang/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaOjhalang/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -318,6 +319,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1014-k-closest-points-to-origin](https://github.com/AdityaOjhalang/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/AdityaOjhalang/Leetcode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/AdityaOjhalang/Leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/AdityaOjhalang/Leetcode/tree/master/1127-last-stone-weight) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/AdityaOjhalang/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
@@ -797,6 +799,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0643-maximum-average-subarray-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaOjhalang/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
 |  |
@@ -808,6 +811,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0560-subarray-sum-equals-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AdityaOjhalang/Leetcode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/AdityaOjhalang/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3639-zero-array-transformation-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3639-zero-array-transformation-i) |
