@@ -341,6 +341,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdityaOjhalang/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaOjhalang/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2206-detonate-the-maximum-bombs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2211-k-radius-subarray-averages](https://github.com/AdityaOjhalang/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2245-destroying-asteroids](https://github.com/AdityaOjhalang/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2262-solving-questions-with-brainpower](https://github.com/AdityaOjhalang/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdityaOjhalang/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -803,6 +804,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2211-k-radius-subarray-averages](https://github.com/AdityaOjhalang/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaOjhalang/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
 |  |
