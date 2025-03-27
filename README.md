@@ -431,6 +431,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0211-design-add-and-search-words-data-structure](https://github.com/AdityaOjhalang/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/AdityaOjhalang/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AdityaOjhalang/Leetcode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AdityaOjhalang/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AdityaOjhalang/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0392-is-subsequence) |
@@ -751,6 +752,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0253-meeting-rooms-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/AdityaOjhalang/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0908-middle-of-the-linked-list) |
