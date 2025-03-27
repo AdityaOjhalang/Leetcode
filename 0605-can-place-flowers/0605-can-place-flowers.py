@@ -9,7 +9,5 @@ class Solution:
                 if left and right:
                     bed[i] = 1
                     n -= 1
-                    if n == 0:
-                        return True
 
-        return n == 0
+        return n <= 0
