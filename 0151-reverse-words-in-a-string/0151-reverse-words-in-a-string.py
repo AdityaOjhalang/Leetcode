@@ -1,21 +1,21 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        left, right = 0, len(s) - 1
-        #removing spaces
-        while left <= right and s[left] == " ":              
-            left +=1
-        while left <= right and s[right] == " ":
-            right -= 1
-        
+        i,j = 0 , len(s) - 1
+        while i <= j and s[i] == " ":
+            i+= 1
+        while i <= j and s[j] == " ":
+            j -= 1
+
         word = []
         queue = deque()
-        while left <= right:
-            if word and s[left] == " ":
+        while i <= j:
+            if word and s[i] == " ":
                 queue.appendleft("".join(word))
                 word = []
-            elif s[left] != " ":
-                word.append(s[left])
-            left += 1
+            elif s[i] != " ":
+                word.append(s[i])
+            i += 1
         queue.appendleft("".join(word))
         return " ".join(queue)
-                
+
+ 
