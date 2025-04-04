@@ -5,8 +5,8 @@ class Solution:
         """
         n = len(nums)
         toadd = 0
-        for i in range(len(nums)):
+        for i in range(n):
             if nums[i] != 0:
-                nums[i],nums[toadd] = nums[toadd],nums[i]
+                nums[i], nums[toadd] = nums[toadd],nums[i]
                 toadd += 1
         
