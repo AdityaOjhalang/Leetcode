@@ -337,6 +337,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1603-running-sum-of-1d-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaOjhalang/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/AdityaOjhalang/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/AdityaOjhalang/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AdityaOjhalang/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -402,6 +403,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AdityaOjhalang/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AdityaOjhalang/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaOjhalang/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String
@@ -483,6 +485,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AdityaOjhalang/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/AdityaOjhalang/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaOjhalang/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2245-destroying-asteroids](https://github.com/AdityaOjhalang/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -762,6 +765,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0908-middle-of-the-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/AdityaOjhalang/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/AdityaOjhalang/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
