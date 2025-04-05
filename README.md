@@ -334,6 +334,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1428-jump-game-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1428-jump-game-iii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AdityaOjhalang/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaOjhalang/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -640,6 +641,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1170-shortest-common-supersequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/AdityaOjhalang/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaOjhalang/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/AdityaOjhalang/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Shortest Path
@@ -820,6 +822,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0713-subarray-product-less-than-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaOjhalang/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2211-k-radius-subarray-averages](https://github.com/AdityaOjhalang/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaOjhalang/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
