@@ -327,6 +327,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/AdityaOjhalang/Leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AdityaOjhalang/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/AdityaOjhalang/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/AdityaOjhalang/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1397-search-suggestions-system](https://github.com/AdityaOjhalang/Leetcode/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AdityaOjhalang/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -403,6 +404,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0976-minimum-area-rectangle](https://github.com/AdityaOjhalang/Leetcode/tree/master/0976-minimum-area-rectangle) |
 | [1023-time-based-key-value-store](https://github.com/AdityaOjhalang/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AdityaOjhalang/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/AdityaOjhalang/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/AdityaOjhalang/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
