@@ -461,6 +461,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1777-determine-if-two-strings-are-close](https://github.com/AdityaOjhalang/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AdityaOjhalang/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdityaOjhalang/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2470-removing-stars-from-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaOjhalang/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Sorting
 |  |
@@ -554,6 +555,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0394-decode-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/AdityaOjhalang/Leetcode/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -881,6 +883,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0054-spiral-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AdityaOjhalang/Leetcode/tree/master/0067-add-binary) |
 | [2428-equal-row-and-column-pairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Counting Sort
 |  |
 | ------- |
