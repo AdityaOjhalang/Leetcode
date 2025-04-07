@@ -797,6 +797,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0359-logger-rate-limiter](https://github.com/AdityaOjhalang/Leetcode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaOjhalang/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/AdityaOjhalang/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/AdityaOjhalang/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Data Stream
 |  |
@@ -804,6 +805,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/AdityaOjhalang/Leetcode/tree/master/0359-logger-rate-limiter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/AdityaOjhalang/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -938,6 +940,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/AdityaOjhalang/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0969-number-of-recent-calls](https://github.com/AdityaOjhalang/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
