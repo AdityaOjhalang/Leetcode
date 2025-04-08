@@ -541,6 +541,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0146-lru-cache](https://github.com/AdityaOjhalang/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
