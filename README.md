@@ -451,6 +451,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaOjhalang/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/AdityaOjhalang/Leetcode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/AdityaOjhalang/Leetcode/tree/master/0649-dota2-senate) |
 | [0753-open-the-lock](https://github.com/AdityaOjhalang/Leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/AdityaOjhalang/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -732,6 +733,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityaOjhalang/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/AdityaOjhalang/Leetcode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/AdityaOjhalang/Leetcode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdityaOjhalang/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/AdityaOjhalang/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -939,6 +941,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/AdityaOjhalang/Leetcode/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AdityaOjhalang/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/AdityaOjhalang/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
