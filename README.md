@@ -43,6 +43,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AdityaOjhalang/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Depth-First Search
@@ -91,6 +92,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1428-jump-game-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1428-jump-game-iii) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/AdityaOjhalang/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/AdityaOjhalang/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -188,6 +190,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AdityaOjhalang/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -666,6 +669,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1170-shortest-common-supersequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/AdityaOjhalang/Leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaOjhalang/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/AdityaOjhalang/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
