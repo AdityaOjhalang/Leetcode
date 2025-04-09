@@ -16,8 +16,10 @@ class Solution:
             self.res += hmap.get(compl, 0)
             hmap[currsum] += 1
 
-            dfs(node.left, currsum, hmap.copy())
-            dfs(node.right, currsum, hmap.copy())
+            dfs(node.left, currsum, hmap)
+            dfs(node.right, currsum, hmap)
+
+            hmap[currsum] -= 1  
 
         dfs(root, 0, hmap)
         return self.res  
