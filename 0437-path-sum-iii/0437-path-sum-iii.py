@@ -3,10 +3,10 @@ from collections import defaultdict
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
 
-        self.res = 0  # Use this as shared state
+        self.res = 0  
 
         hmap = defaultdict(int)
-        hmap[0] = 1  # Needed to handle exact matches from root
+        hmap[0] = 1 
 
         def dfs(node, currsum, hmap):
             if not node:
@@ -16,10 +16,8 @@ class Solution:
             self.res += hmap.get(compl, 0)
             hmap[currsum] += 1
 
-            dfs(node.left, currsum, hmap)
-            dfs(node.right, currsum, hmap)
-
-            hmap[currsum] -= 1  # Backtrack
+            dfs(node.left, currsum, hmap.copy())
+            dfs(node.right, currsum, hmap.copy())
 
         dfs(root, 0, hmap)
-        return self.res  # ← This line MUST be self.res
+        return self.res  
