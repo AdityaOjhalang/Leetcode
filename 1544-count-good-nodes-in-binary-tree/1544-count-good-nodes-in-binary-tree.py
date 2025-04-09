@@ -11,7 +11,7 @@ class Solution:
                 return 0
             count = 0
             if node.val >= currmax:
-                count = 1
+                count += 1
                 currmax = node.val
             left = dfs(node.left,currmax)
             right = dfs(node.right,currmax)
