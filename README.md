@@ -41,6 +41,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0904-leaf-similar-trees](https://github.com/AdityaOjhalang/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AdityaOjhalang/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -89,6 +90,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0904-leaf-similar-trees](https://github.com/AdityaOjhalang/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AdityaOjhalang/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1428-jump-game-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/1428-jump-game-iii) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -138,6 +140,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0945-snakes-and-ladders](https://github.com/AdityaOjhalang/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/AdityaOjhalang/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1036-rotting-oranges](https://github.com/AdityaOjhalang/Leetcode/tree/master/1036-rotting-oranges) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/AdityaOjhalang/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -188,6 +191,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0904-leaf-similar-trees](https://github.com/AdityaOjhalang/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/AdityaOjhalang/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
