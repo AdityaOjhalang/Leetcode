@@ -7,4 +7,4 @@ class Solution:
                     dfs(neigh)
         seen = {0}
         dfs(0)
-        return len(rooms) == len(seen)
+        return len(seen) == len(rooms)
