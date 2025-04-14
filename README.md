@@ -381,6 +381,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2428-equal-row-and-column-pairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2636-maximum-subsequence-score](https://github.com/AdityaOjhalang/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/AdityaOjhalang/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -528,6 +529,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2636-maximum-subsequence-score](https://github.com/AdityaOjhalang/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/AdityaOjhalang/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3647-zero-array-transformation-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Divide and Conquer
@@ -745,6 +747,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaOjhalang/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AdityaOjhalang/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/AdityaOjhalang/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3647-zero-array-transformation-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
 |  |
@@ -775,6 +778,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2636-maximum-subsequence-score](https://github.com/AdityaOjhalang/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/AdityaOjhalang/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3647-zero-array-transformation-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
