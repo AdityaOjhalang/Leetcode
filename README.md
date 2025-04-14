@@ -381,6 +381,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2428-equal-row-and-column-pairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/AdityaOjhalang/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/AdityaOjhalang/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/AdityaOjhalang/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -747,6 +748,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaOjhalang/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AdityaOjhalang/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/AdityaOjhalang/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/AdityaOjhalang/Leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3647-zero-array-transformation-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
@@ -819,6 +821,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/AdityaOjhalang/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Design
 |  |
 | ------- |
@@ -924,6 +927,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0735-asteroid-collision](https://github.com/AdityaOjhalang/Leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/AdityaOjhalang/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Counting Sort
 |  |
 | ------- |
