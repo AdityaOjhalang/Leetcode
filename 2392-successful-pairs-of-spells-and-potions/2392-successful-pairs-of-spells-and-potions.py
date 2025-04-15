@@ -4,11 +4,11 @@ class Solution:
         res = []
         n = len(potions)
 
-        def leftindx(arr,target):
-            l,r = 0,len(arr)
+        def leftindx(target):
+            l,r = 0,len(potions)
             while l < r:
                 mid = (l + r) // 2 
-                if arr[mid] >= target:
+                if potions[mid] >= target:
                     r = mid
                 else:
                     l = mid + 1
@@ -16,6 +16,6 @@ class Solution:
         
         for spell in spells:
             target = success/spell
-            ind = leftindx(potions,target)
+            ind = leftindx(target)
             res.append(n-ind)
         return res
