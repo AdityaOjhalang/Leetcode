@@ -2,19 +2,20 @@ class Solution:
     def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
         potions.sort()
         res = []
+        n = len(potions)
 
         def leftindx(arr,target):
-            left , right = 0 , len(arr)
-            while left < right:
-                mid = (left + right) // 2
+            l,r = 0,len(arr)
+            while l < r:
+                mid = (l + r) // 2 
                 if arr[mid] >= target:
-                    right = mid 
+                    r = mid
                 else:
-                    left = mid + 1
-            return left
+                    l = mid + 1
+            return l
         
-        n = len(potions)
         for spell in spells:
-            ind = leftindx(potions,success/spell)
+            target = success/spell
+            ind = leftindx(potions,target)
             res.append(n-ind)
-        return res 
+        return res
