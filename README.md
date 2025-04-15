@@ -219,6 +219,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0300-longest-increasing-subsequence](https://github.com/AdityaOjhalang/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/AdityaOjhalang/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1006,4 +1007,8 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/AdityaOjhalang/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AdityaOjhalang/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
