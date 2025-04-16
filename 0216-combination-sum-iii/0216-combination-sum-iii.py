@@ -13,4 +13,4 @@ class Solution:
                     path.pop()
         res = []
         backtrack([],1,0)
-        return res
+        return res 
