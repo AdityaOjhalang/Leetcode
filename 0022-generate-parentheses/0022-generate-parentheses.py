@@ -2,9 +2,9 @@ class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         res = []
         def backtrack(path,open,close):
-            if len(path) == n*2:
+            if len(path) == n * 2:
                 res.append("".join(path[:]))
-                return
+                return 
             if open < n:
                 path.append("(")
                 backtrack(path,open+1,close)
@@ -15,3 +15,4 @@ class Solution:
                 path.pop()
         backtrack([],0,0)
         return res
+            
