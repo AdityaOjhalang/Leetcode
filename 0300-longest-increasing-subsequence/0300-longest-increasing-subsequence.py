@@ -7,4 +7,4 @@ class Solution:
                 if nums[i] > nums[j]:
                     ans = max(ans,dp(j) + 1)
             return ans 
-        return max(dp(i) for i in range(len(nums)))
+        return max(dp(i) for i in range((len(nums))))
