@@ -377,6 +377,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2211-k-radius-subarray-averages](https://github.com/AdityaOjhalang/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2245-destroying-asteroids](https://github.com/AdityaOjhalang/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2262-solving-questions-with-brainpower](https://github.com/AdityaOjhalang/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/AdityaOjhalang/Leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdityaOjhalang/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/AdityaOjhalang/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -440,6 +441,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AdityaOjhalang/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/AdityaOjhalang/Leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AdityaOjhalang/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/AdityaOjhalang/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -788,6 +790,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1829-maximum-units-on-a-truck](https://github.com/AdityaOjhalang/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/AdityaOjhalang/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2245-destroying-asteroids](https://github.com/AdityaOjhalang/Leetcode/tree/master/2245-destroying-asteroids) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/AdityaOjhalang/Leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/AdityaOjhalang/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -869,6 +872,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1354-find-players-with-zero-or-one-losses](https://github.com/AdityaOjhalang/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/AdityaOjhalang/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AdityaOjhalang/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/AdityaOjhalang/Leetcode/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 ## Quickselect
 |  |
 | ------- |
