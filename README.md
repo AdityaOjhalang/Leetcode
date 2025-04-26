@@ -581,6 +581,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0148-sort-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0716-max-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0716-max-stack) |
 | [0908-middle-of-the-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -596,6 +597,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0155-min-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0394-decode-string) |
+| [0716-max-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/AdityaOjhalang/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AdityaOjhalang/Leetcode/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaOjhalang/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -851,6 +853,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/AdityaOjhalang/Leetcode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaOjhalang/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0716-max-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0716-max-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/AdityaOjhalang/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/AdityaOjhalang/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -1010,6 +1013,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AdityaOjhalang/Leetcode/tree/master/0146-lru-cache) |
+| [0716-max-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0716-max-stack) |
 ## Iterator
 |  |
 | ------- |
@@ -1025,6 +1029,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Ordered Set
 |  |
 | ------- |
+| [0716-max-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0716-max-stack) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AdityaOjhalang/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Interactive
 |  |
