@@ -325,6 +325,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0542-01-matrix](https://github.com/AdityaOjhalang/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaOjhalang/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AdityaOjhalang/Leetcode/tree/master/0605-can-place-flowers) |
+| [0636-exclusive-time-of-functions](https://github.com/AdityaOjhalang/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/AdityaOjhalang/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/AdityaOjhalang/Leetcode/tree/master/0695-max-area-of-island) |
@@ -597,6 +598,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0155-min-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0394-decode-string) |
+| [0636-exclusive-time-of-functions](https://github.com/AdityaOjhalang/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0716-max-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/AdityaOjhalang/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AdityaOjhalang/Leetcode/tree/master/0739-daily-temperatures) |
