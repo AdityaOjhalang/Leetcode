@@ -9,7 +9,7 @@ class Solution:
             third = nums[i + 2]       # Last number of the subarray
             
             # Check if sum of first and third equals half of the middle
-            if first + third == middle / 2:
+            if 2*(first + third) == middle:
                 count += 1  # If the condition matches, increment the counter
         
         return count  # Return the total count
