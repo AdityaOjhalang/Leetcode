@@ -396,6 +396,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [3639-zero-array-transformation-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AdityaOjhalang/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
