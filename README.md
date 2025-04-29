@@ -29,6 +29,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
+| [0341-flatten-nested-list-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0437-path-sum-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/AdityaOjhalang/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AdityaOjhalang/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -76,6 +77,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/AdityaOjhalang/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/AdityaOjhalang/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0341-flatten-nested-list-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/AdityaOjhalang/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AdityaOjhalang/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/0437-path-sum-iii) |
@@ -602,6 +604,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaOjhalang/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/AdityaOjhalang/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0716-max-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0716-max-stack) |
@@ -858,6 +861,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaOjhalang/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AdityaOjhalang/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/AdityaOjhalang/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0341-flatten-nested-list-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0359-logger-rate-limiter](https://github.com/AdityaOjhalang/Leetcode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaOjhalang/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0716-max-stack](https://github.com/AdityaOjhalang/Leetcode/tree/master/0716-max-stack) |
@@ -1010,6 +1014,7 @@ This is a collection of all the problems I have solved on Leetcode
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/AdityaOjhalang/Leetcode/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AdityaOjhalang/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/AdityaOjhalang/Leetcode/tree/master/0969-number-of-recent-calls) |
@@ -1026,6 +1031,7 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/AdityaOjhalang/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 ## Randomized
 |  |
 | ------- |
