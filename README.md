@@ -401,6 +401,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [3643-zero-array-transformation-ii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/AdityaOjhalang/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AdityaOjhalang/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/AdityaOjhalang/Leetcode/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -714,6 +715,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaOjhalang/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/AdityaOjhalang/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/AdityaOjhalang/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/AdityaOjhalang/Leetcode/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Shortest Path
 |  |
 | ------- |
@@ -741,6 +743,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [1448-maximum-69-number](https://github.com/AdityaOjhalang/Leetcode/tree/master/1448-maximum-69-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2383-add-two-integers](https://github.com/AdityaOjhalang/Leetcode/tree/master/2383-add-two-integers) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/AdityaOjhalang/Leetcode/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Geometry
 |  |
 | ------- |
@@ -1051,4 +1054,8 @@ This is a collection of all the problems I have solved on Leetcode
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AdityaOjhalang/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/AdityaOjhalang/Leetcode/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 <!---LeetCode Topics End-->
