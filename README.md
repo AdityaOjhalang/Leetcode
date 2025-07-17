@@ -508,6 +508,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdityaOjhalang/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AdityaOjhalang/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3931-process-string-with-special-operations-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -968,6 +969,7 @@ This is a collection of all the problems I have solved on Leetcode
 | [2428-equal-row-and-column-pairs](https://github.com/AdityaOjhalang/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/AdityaOjhalang/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AdityaOjhalang/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3931-process-string-with-special-operations-i](https://github.com/AdityaOjhalang/Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Counting Sort
 |  |
 | ------- |
